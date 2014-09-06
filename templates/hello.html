@@ -1,0 +1,56 @@
+<fDOCTYPE>
+<html>
+    <head>
+        <link href="{{STATIC_URL}}blog.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <h1>Welcome</h1>
+        <form method="post" action="http://127.0.0.1:8000/">
+	{% csrf_token %}    
+        <ul>
+            <li>
+                <input type="text" name="fname" placeholder="First Name" required>
+            </li>
+          
+	    <li>
+                <input type="text" name="lname" placeholder="Last Name" required>
+            </li>
+
+	    <li>
+                <input type="text" name="uname" placeholder="User Name" required>
+            </li>
+
+	    <li>
+                <input type="email" name="email" placeholder="Email Id" required>
+            </li>
+
+	    <li>
+                <input type="password" name="password" placeholder="Password" required>
+            </li> 
+       
+            <li>
+                <input type="submit" value="USER SIGN UP">
+            </li>
+        </ul>
+    </form>
+    <h2>Already a member... Sounds great! Go on</h2>
+<!--    <form>
+    <ul>
+	<li>
+            <input type="text" name="uname" placeholder="User Name" required>
+        </li>
+
+        <li>
+            <input type="password" name="password" placeholder="Password" required>
+        </li>
+
+    </form>
+    -->
+    <form method = "get" action = "http://127.0.0.1:8000/signIn">
+        <input type = "text" name = "uname" placeholder = "user name" required>
+	<input type = "password" name = "password" placeholder = "Password" required>
+	<input type = "submit" name = "" value = "signIn">
+    </form>
+
+    </body>
+</html>

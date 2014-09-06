@@ -1,0 +1,2837 @@
+ss="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+		<!-- Start LegacyAppFragment name="Head" -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+					    <title>Belfast Newsletter</title> 
+
+		<link rel="stylesheet" href="/assets/css/jp-main-01-min.css?v=147" />
+<!--[if IE 7]>
+  <link rel="stylesheet" href="/assets/css/ie7.css" />
+<![endif]-->
+<!--[if lt IE 7]>
+  <link rel="stylesheet" href="/assets/css/ie6.css" />
+<![endif]-->
+  <meta name="robots" content="index">
+  <meta name="robots" content="ACAP allow-index">   
+
+
+		<meta name="WT.pi" content="Homepage"/>
+	<meta name="WT.cg_n" content="Homepage"/>
+	<meta name="DCSext.sitecode" content="belf" />
+	<meta name="DCS.dcssip" content="www.newsletter.co.uk" />
+
+						<!-- using hardcoded tags -->
+								<script language="javascript" type="text/javascript" src="/js/webtrends/wtinit.js?v=147"></script>
+			<noscript>
+			  <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcs6n7x4k10000kj4sqwi8cob_2e8q/njs.gif?dcsuri=/" /></div>
+			</noscript>
+						<script language="javascript" type="text/javascript" src="/js/webtrends/wtbase.js?v=147"></script>
+
+
+	    <script src="/assets/script/jp-new-min.js?v=147"></script>
+
+     <link rel="alternate" type="application/rss+xml" title="INNL.news.feed" href="/rss/cmlink/1.1571541" />  
+     <link rel="alternate" type="application/rss+xml" title="INNL.sport.feed" href="/rss/cmlink/1.1571567" />  
+     <link rel="alternate" type="application/rss+xml" title="INNL.whatson.feed" href="/rss/cmlink/1.5002270" />  
+     <link rel="alternate" type="application/rss+xml" title="INNL.life.feed" href="/rss/cmlink/1.5002275" />  
+     <link rel="alternate" type="application/rss+xml" title="INNL.nostalgia.feed" href="/rss/cmlink/1.5002295" />  
+     <link rel="alternate" type="application/rss+xml" title="INNL.worldwarone.feed" href="/rss/cmlink/1.6123318" />  
+
+
+<script type="text/javascript" src="/assets/script/comscore.js?v=147"></script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035892&cv=2.0&cj=1" />
+</noscript>
+<script type="text/javascript">	
+	 var siteKey = 'belf';
+
+
+	var nav = '';
+	var show = nav.indexOf(':');
+	if(show==-1){
+		if(nav==''){
+			document.write('<link href="http://ad.doubleclick.net/N3948/adx/belfast.jp/home;tile=1;dcmt=text/css;sz=1x1;ord=2590897322?" rel="stylesheet" type="text/css">');
+		}else{
+			document.write('<link href="http://ad.doubleclick.net/N3948/adx/belfast.jp/'+nav+';dcmt=text/css;sz=1x1;ord=2590897322?" rel="stylesheet" type="text/css">');
+		}
+
+	}else{
+		nav = nav.split(":");
+		var navl = nav.length;
+		var cat = nav[navl-1].replace(/ /g, "-").toLowerCase();
+		document.write('<link href="http://ad.doubleclick.net/N3948/adx/belfast.jp/'+cat+';tile=1;dcmt=text/css;sz=1x1;ord=2590897322?" rel="stylesheet" type="text/css">');
+
+	}
+</script>
+
+<script type="text/javascript">  
+	var gs_topics = "DEFAULT";</script>
+<script type="text/javascript" src="http://johnston.grapeshot.co.uk/topics.cgi?url=http%3A%2F%2Fwww.newsletter.co.uk%2F"></script>
+				
+				
+																
+	<script type="text/javascript" src="//libs.de.coremetrics.com/eluminate.js">
+	</script>
+	<script type="text/javascript">
+			cmSetClientID("50630000|BELF",true,"data.de.coremetrics.com","newsletter.co.uk");
+	</script>
+
+	<script type="text/javascript">
+			cmCreatePageviewTag("BELF | Home","","");				
+	</script>	
+
+			<script src="http://tags.crwdcntrl.net/c/4810/cc_af.js"></script> 
+			<script type="text/javascript" src="http://ad.crwdcntrl.net/5/c=4299/pe=y/var=ccauds"></script>
+	<script type="text/javascript">
+	    var dartCCKey = "ccaud";
+	    var dartCC = "";
+	    if (typeof(ccauds) != 'undefined')
+	    {
+	        for (var cci = 0; cci < ccauds.Profile.Audiences.Audience.length; cci++)
+	        {
+	            if (cci > 0) dartCC += ";";
+	            dartCC += dartCCKey + "=" + ccauds.Profile.Audiences.Audience[cci].abbr;
+	        }
+	    }
+	</script>
+	
+<!-- End LegacyAppFragment name="Head" -->	
+
+      
+
+      </head>
+
+<body class="">
+		             
+                  
+    
+      
+        <ul class="offset">
+	<li><a class="cfo_M .cbo_M" href="#content" title="skip t content" tabindex="1" accesskey="1" onclick="$('#content').attr('tabindex',-4).focus();">Jump to Content</a></li>
+	<li><a class="cfo_M .cbo_M" href="#level1nav" title="skip to level 1 navigation" tabindex="2" accesskey="2" onclick="$('#level1nav').attr('tabindex',-1).focus();">Jump to First Navigation</a></li>
+			<li><a class="cfo_M .cbo_M" href="#navigationTier" title="skip to level 2 navigation" tabindex="3" accesskey="3" onclick="$('#navigationTier').attr('tabindex',-2).focus();">Jump to Second Navigation</a></li>
+		</ul>
+
+
+
+ 
+  			    
+		<header class="header" role="banner">
+										<div class="dc-banner">
+	            	
+                  
+    
+      
+        
+
+<div id="adTag_2" class="adTag">
+	<script type="text/javascript">
+	var ord = window.ord || Math.floor(Math.random() * 1e16);
+	document.write('<script src="http://ad.uk.doubleclick.net/N3948/adj/belfast.jp/home;pgid=215151;tile=2;sz=728x90,970x250;;' + (typeof(dartCC) != "undefined" ? dartCC : "") + ';gs_cat='+gs_topics+';;weathertoday=sunny;weathertomorrow=sunnyspells;dcopt=ist;ord=' + ord + '? " type="text/javascript"></scr'+'ipt>');
+	</script>
+	<noscript>
+	  <a href="http://ad.uk.doubleclick.net/jump/belfast.jp/home;pgid=215151;tile=1;sz=728x90,970x250;;gs_cat=GS_TOPIC;weathertoday=sunny;weathertomorrow=sunnyspells;dcopt=ist;ord=[timestamp]?" target="_blank">
+    	<img src="http://ad.uk.doubleclick.net/ad/belfast.jp/home;pgid=215151;tile=1;sz=728x90,970x250;;gs_cat=GS_TOPIC;weathertoday=sunny;weathertomorrow=sunnyspells;dcopt=ist;ord=[timestamp]?" alt="Dynamic Dart Advertisement" />
+	  </a>
+	</noscript>
+</div>
+
+
+      
+  
+      	            </div>
+		        		
+		<nav id="level1navDiv" tabindex="-1" class="nav-l1 bg gradient main" role="navigation" aria-label="main menu">
+			<h1 id="pagePath" style="display:none" class="flt-l"></h1>
+						<ul id="level1nav" class="cld" role="menubar" aria-level="1">
+	<li class="flt-l active" role="menuitem">
+		<a class="home active" href="http://www.newsletter.co.uk/"></a>
+	</li>		
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.newsletter.co.uk/news"    >News</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.newsletter.co.uk/sport"    >Sport</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.newsletter.co.uk/what-s-on"    >What's On</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.newsletter.co.uk/jobs"    >Jobs</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.newsletter.co.uk/findit"    >Directory</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.newsletter.co.uk/motors"    >Motors</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.newsletter.co.uk/property"    >Property</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://announce.jpress.co.uk/?source=jpir_belf"   target='_blank' >Announcements</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.dealmonster.co.uk/deal/travel/"   target='_blank' >Deals</a>
+		</li>
+			<li class="flt-l " role="menuitem">
+			<a href="http://www.dealmonster.co.uk/shop"   target='_blank' >Shop</a>
+		</li>
+				<li class="flt-l pos-r" role="menuitem" tabindex="0" aria-haspopup="true" id="js-more-link">
+		<a href='javascript:' id="moreLink" class="more">More</a>
+					<ul role="menu" id="js-more-nav" class="nav-l1-1" aria-hidden="true">
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.newsletter.co.uk/life"    >Life</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.newsletter.co.uk/e-mags"    >E-Mags</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.newsletter.co.uk/nostalgia"    >Nostalgia</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.belfastnewsletter.holidaytoday.co.uk"   target='_blank' >Holidays</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.newsletter.co.uk/bingo"   target='_blank' >Bingo</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.newsletter.co.uk/dating"   target='_blank' >Dating</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://mortonsnewspapers.newsprints.co.uk/banr/BELF"   target='_blank' >Buy A Photo</a>							
+					</li>
+									<li role="menuitem" class="">																																						    						    																									
+						<a href="http://www.newsletter.co.uk/world-war-one"    >World War One</a>							
+					</li>
+							</ul>
+				</li>					
+	</ul>						
+                  
+    
+      
+        
+		<form id="searchPanel" class="site-search" role="search" name="site-search" action="http://www.newsletter.co.uk//7.41597" method="get">
+
+            <fieldset class="cld">
+			<input type="hidden" name="submitted" value="true" id="fixForIEBugSlot" />
+            <input type="hidden" name="action" value="search" />
+            <input type="hidden" name="slotSearch" value="true" />
+            <input type="hidden" name="siteId" value="2.15151" />
+            <input id="searchInNav" class="flt-l txt frm-search-term" type="text" name="freeTextQuery" value="Search" placeholder="Search" />
+            <input class="flt-l submit gradient" type="submit"  value=""/>
+            </fieldset>
+        </form>
+        
+        <script type="text/javascript">		
+			$(document).ready(function (){
+				$("input.frm-search-term").each(function() {
+					$(this).val(getQuerystring('freeTextQuery',''));
+				});
+			});
+		</script>
+	
+<script type="text/javascript">
+
+	$(document).ready(function (){
+		searchElem("freeTextQuery");
+	});
+</script>
+      
+  
+      		</nav>
+
+		<div class="content">
+			<div class="main">
+									<a id="publicationLogo"  class="logo-holder flt-l" href="http://www.newsletter.co.uk/">
+						
+       
+ <img src="/webimage/7.41587.1366089148!/image/1977256700.png_gen/derivatives/default/1977256700.png" alt="" />
+     
+     					</a>
+												<nav class="user-links flt-r" aria-label="logging in navigation">
+					<ul class="login hidden" role="menu" id="loginRegisterPanel" aria-label="user login/register">
+			<li class="flt-l" role="menuitem"><a id="login" class="ico ico-login" href="/login?referrer=http://www.newsletter.co.uk/">Login</a></li>
+	        <li class="flt-l last" role="menuitem"><a href="/register?referrer=http://www.newsletter.co.uk/" rel="nofollow">Register</a></li>
+        </ul>
+								<ul class="login hidden" role="menu" id="profileLogoutPanel" aria-label="user login/register">
+		<li class="flt-l" role="menuitem"> <a id="login" class="ico ico-login" href="/profile" rel="nofollow"><span id="username1"></span></a></li>
+		<li class="flt-l last" role="menuitem"><a id="logoutBtn" href="/logout?referrer=http://www.newsletter.co.uk/" rel="nofollow">Log out</a></li>
+		</ul>
+				      		<ul class="login hidden" role="menu" id="logoutPanel" aria-label="user login/register">
+        	<li class="flt-l" role="menuitem"><p id="login" class="ico ico-login"><span id="username2"></span></p></li>
+        	<li class="flt-l last" role="menuitem"><a id="logoutBtn" href="/logout?referrer=http://www.newsletter.co.uk/" rel="nofollow">Log out</a></li>
+        </ul>
+             <ul class="register login hidden" aria-haspopup="true">
+		<li class="flt-r" role="menuitem"><a id="whyregister-link" href="#">Why Register?</a></li>
+   </ul>
+</nav>
+
+<div id="whyregister-lightbox" class="whyregister-lightbox dis-n">
+	<section id="whyregister" class="whyregister" role="main">
+		<h3>Why register?</h3>
+		
+        <a href="" class="close" title="close">Close<b>X</b></a>
+		<aside>
+        	<p>If you have already registered</p>
+            <button class="whyregister" onClick="location.href = '/login?referrer=http://www.newsletter.co.uk/'" title="log in">Log in</button>
+            <span>Forgot your password? <a href="/login?action=forgotpassword" title="forgot password">&nbsp;click here</a></span>
+        </aside>
+        <div>
+        	<p>If you have not signed up previously</p>
+            <button class="whyregister" onClick="location.href = '/register?referrer=http://www.newsletter.co.uk/'" title="register now">Register now</button>
+            <span>It's free and only takes a minute!</span>            
+        </div>        
+        <dl role="complementary">
+        	<dt>Benefits to registering with us</dt>
+        	<dd>
+            	<img src="/assets/images/img/comment.png" alt="comment on stories" /><span>Comment on stories</span>
+            </dd>
+        	<dd>
+            	<img src="/assets/images/img/mail.png" alt="Customise daily e-mail newsletters" /><span>Customise daily e-mail newsletters</span>
+            </dd>
+        	<dd>
+            	<img src="/assets/images/img/paper.png" alt="Arrange your newspaper/digital subscriptions online" /><span>Arrange your newspaper/digital subscriptions online</span>
+            </dd>            
+        	<dd>
+            	<img src="/assets/images/img/deal.png" alt="Offers, promotions and deals from partners" /><span>Offers, promotions and deals from partners</span>
+            </dd>
+                    </dl>
+	</section>
+</div>
+<script type="text/javascript">
+	var loginStatusResponse;
+	var loginResponseSet = false;
+	var loginHandlers = new Array();
+
+    function loadLogin(json) {
+		loginStatusResponse = json;
+        if (json.loginStatus.loggedIn) {
+            if (json.loginStatus.accessProfile) {
+                $('#profileLogoutPanel').removeClass("hidden");
+                $('#logoutPanel').addClass("hidden");
+                $('#loginRegisterPanel').addClass("hidden");
+				$('.register').addClass("hidden");
+                $('#username1').text( json.loginStatus.screenname );
+            } else {
+                $('#profileLogoutPanel').addClass("hidden");
+                $('#logoutPanel').removeClass("hidden");
+                $('#loginRegisterPanel').addClass("hidden");
+				$('.register').removeClass("hidden");
+                $('#username2').text( json.loginStatus.screenname );
+            }
+                        $('#subscribeNLWidgetLoggedOut').addClass("hidden");
+            $('#subscribeNLWidgetLoggedIn').removeClass("hidden");
+			
+						if(json.loginStatus.askedCookiePolicy && json.loginStatus.acceptsCookiePolicy){
+				$('#euCookiesQuestion').hide();
+				$("body > header").css('margin', '0px auto 0px');
+			}
+												if(jQuery.cookie('acceptsCookies')=='accepts') {		
+				$('#euCookiesQuestion').hide();
+				$("body > header").css('margin', '0px auto 0px');
+			}
+			
+        } else {
+            $('#loginRegisterPanel').removeClass("hidden");
+			$('.register').removeClass("hidden");
+            $('#logoutPanel').addClass("hidden");
+            $('#profileLogoutPanel').addClass("hidden");
+            $('#subscribeNLWidgetLoggedIn').addClass("hidden");
+            $('#subscribeNLWidgetLoggedOut').removeClass("hidden");
+			
+						if(jQuery.cookie('at')!=null) {		
+				jQuery.cookie("at", null, { 
+				path: '/', 
+				expires: -5, 
+				domain: '.' + location.host.replace('www.','').replace('m.','') });
+				console.info('pluck cookie removed');
+				console.info(jQuery.cookie('at'));
+				window.location.reload();		
+			}
+									if(jQuery.cookie('acceptsCookies')=='accepts') {		
+				$('#euCookiesQuestion').hide();
+				$("body > header").css('margin', '0px auto 0px');
+			}
+			
+        }
+
+		loginResponseSet = true;
+		$(document).trigger('loginResponse');		
+    }
+    
+    				$(document).ready(function() {
+    	if (($.cookie("sessionKey") == null) && ($.cookie("rememberMe") == null) ) {
+    		loadLogin({loginStatus:{loggedIn:false}});
+    	} else {
+            $.getJSON('/ajax?action=loginStatus', loadLogin);
+    	}
+	});
+    
+																			   $('#whyregister-link').click(function(event){
+   
+   			$('#whyregister-lightbox').lightbox_me({
+				centered: true,
+				closeSelector: ".close",
+				overlayCSS: {background: '#fff',
+				opacity: 0.8}, 
+				closeClick: false,
+				onLoad: function() { 
+					$('#whyregister-lightbox').find('input:first').focus()
+				}
+			});
+			event.preventDefault();
+		});
+</script>
+			 							<div class="dc-half-banner">	
+																																				</div>
+					
+				
+																<ul class="info cld flt-l fnt-13" aria-label="social links and weather">
+					<li class="flt-l first" title="Today's date" aria-haspopup="true">10/09/14</li>
+					
+                  
+    
+      
+        
+
+<li class="flt-l">	
+	<span class='ico-weather ico-sunny'><a  class="show-weather-popup" href="#" title="5 day forecast">
+		9&deg;C to 18&deg;C Sunny
+	</a></span>
+</li>  
+<div id="weather-lightbox" class="whyregister-lightbox dis-n">
+	<section id="weatherpop-up" class="weatherpop-up" role="main">		<div class="localWeather">
+			<h3>Belfast 5-day weather forecast</h3>
+			<a href="" class="close" title="close">Close<b>X</b></a>
+		</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Wednesday
+					<span class="day-month">10 Sep</span>
+				</p>
+				  <p class="weatherOutlookHeading">Sunny</p>
+  <div class='wico-weather wico-sunny'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">18&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">9&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">South east</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">6 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Thursday
+					<span class="day-month">11 Sep</span>
+				</p>
+				  <p class="weatherOutlookHeading">Sunny spells</p>
+  <div class='wico-weather wico-sunny_spells'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">19&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">10&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">South east</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">4 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Friday
+					<span class="day-month">12 Sep</span>
+				</p>
+				  <p class="weatherOutlookHeading">Cloudy</p>
+  <div class='wico-weather wico-cloudy'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">19&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">10&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">South east</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">7 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Saturday
+					<span class="day-month">13 Sep</span>
+				</p>
+				  <p class="weatherOutlookHeading">Cloudy</p>
+  <div class='wico-weather wico-cloudy'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">18&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">10&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">South east</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">6 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Sunday
+					<span class="day-month">14 Sep</span>
+				</p>
+				  <p class="weatherOutlookHeading">Cloudy</p>
+  <div class='wico-weather wico-cloudy'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">17&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">12&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">East</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">9 mph</span>
+  </p>
+
+			</div>
+			</section>
+</div>
+<script type="text/javascript">
+    $('.show-weather-popup').live("click",function(event){
+			$('#weather-lightbox').lightbox_me({
+				centered: true,
+				closeSelector: ".close",
+				overlayCSS: {background: '#fff',
+				opacity: 0.8}, 
+				closeClick: false,
+				onLoad: function() { 
+					$('#weather-lightbox').find('input:first').focus()
+				}
+			});
+			event.preventDefault();
+		});
+</script>
+
+      
+  
+      					 																	<li class="flt-l"> 
+							
+
+  	    	      	      	      	   	   	     
+
+					<a  class='ext-link' href="https://www.facebook.com/belfastnewsletter"  target='_blank'  rel='nofollow'>
+			Like us 
+							<img title="" src="/webimage/1.5158542!/image/3629289794.png_gen/derivatives/landscape_16/3629289794.png" alt=""/>
+					</a> 
+		
+ 						</li>
+												<li class="flt-l"> 
+							
+
+  	    	      	      	      	   	   	     
+
+					<a  class='ext-link' href="http://www.twitter.com/News_Letter"  target='_blank'  rel='nofollow'>
+			Follow us 
+							<img title="" src="/webimage/1.5158543!/image/1387243349.png_gen/derivatives/landscape_16/1387243349.png" alt=""/>
+					</a> 
+		
+ 						</li>
+														        			            						<li class="flt-l">              
+						    								<a href="http://www.newsletter.co.uk/advertise-with-us">Place your Ad</a>
+						    							</li>
+			            						<li class="flt-l">              
+						    						    	
+
+  	    	     
+
+		<a  href="http://www.localsubsplus.co.uk/NSL"   >Subscribe</a>
+						    							</li>
+			            			        				</ul>
+			 </div>
+		</div>
+	
+				<div id="navTiers"> 
+					<nav id="navigationTier" tabindex="-2" class="cld nav nav-l2" role="navigation">
+			<ul id="secondMenu" class="cld" role="menubar" aria-label="main menu level 2">			
+																			<li class="flt-l " role="menuitem">						
+						<a href="http://www.newsletter.co.uk/video"    >Video</a>
+					</li>
+																			<li class="flt-l " role="menuitem">						
+						<a href="http://www.newsletter.co.uk/life"    >Life</a>
+					</li>
+																			<li class="flt-l " role="menuitem">						
+						<a href="http://www.newsletter.co.uk/news/opinion"    >Opinion</a>
+					</li>
+																			<li class="flt-l " role="menuitem">						
+						<a href="http://www.newsletter.co.uk/features"    >Features</a>
+					</li>
+																			<li class="flt-l " role="menuitem">						
+						<a href="http://www.newsletter.co.uk/news/politics/scots"    >Scottish Independence</a>
+					</li>
+																			<li class="flt-l " role="menuitem">						
+						<a href="http://www.newsletter.co.uk/world-war-one"    >World War One</a>
+					</li>
+																			<li class="flt-l " role="menuitem">						
+						<a href="http://www.farminglife.com/"    >Farming Life</a>
+					</li>
+																			<li class="flt-l " role="menuitem">						
+						<a href="http://www.newsletter.co.uk/nostalgia"    >Nostalgia</a>
+					</li>
+																			<li class="flt-l " role="menuitem">						
+						<a href="http://www.belfastnewsletter.holidaytoday.co.uk" rel='nofollow'  target='_blank' >Holidays</a>
+					</li>
+																			<li class="flt-l " role="menuitem">						
+						<a href="http://www.newsletter.co.uk/dating" rel='nofollow'  target='_blank' >Dating</a>
+					</li>
+																			<li class="flt-l last" role="menuitem">						
+						<a href="http://mortonsnewspapers.newsprints.co.uk/banr/BELF" rel='nofollow'  target='_blank' >Buy A Photo</a>
+					</li>
+							</ul>
+	</nav>
+		</div>
+		
+	</header>
+		
+
+
+<script type="text/javascript">
+document.write('<script src="http://ad.doubleclick.net/N3948/adj/belfast.jp/home;pgid=215151;sz=2x2;' + (typeof(dartCC) != "undefined" ? dartCC : "") + ';ord=6213997126079741?" style="text-indent:-9999px;"></scr'+'ipt>');
+</script>	
+<noscript>
+	<a href="http://ad.doubleclick.net/N3948/jump/belfast.jp/home;pgid=215151;sz=2x2;ord=[timestamp]?">
+		<img src="http://ad.doubleclick.net/N3948/ad/belfast.jp/home;pgid=215151;sz=2x2;ord=[timestamp]?" width="2" height="2" />
+	</a>
+</noscript>
+
+<script type="text/javascript" src="http://ox-d.johnstonpress.co.uk/w/1.0/jstag"></script>
+
+<script type="text/javascript">
+if(typeof(OX) !== "undefined"){
+    // setup classified ads
+    var OX_50f81df3913c8 = OX();
+    OX_50f81df3913c8.addVariable("gs_cat", gs_topics);
+    //OX_50f81df3913c8.addVariable("jp_page_id", "21806");//  the value needs to translate to the page content id as a variable - currently see doubleclick
+    OX_50f81df3913c8.addVariable("jp_page_id", "215151");
+	//OX_50f81df3913c8.addVariable("site", "peterborough.jp"); // in the johnston press variables use dartSite not "peterborough.jp" example only
+    OX_50f81df3913c8.addVariable("site", "belfast.jp");
+        OX_50f81df3913c8.addVariable("siteName", "Belfast Newsletter"); 
+        	OX_50f81df3913c8.addVariable("dealmonster", "http://www.dealmonster.co.uk/deal/travel/");
+ 	    	OX_50f81df3913c8.addVariable("property", "http://www.newsletter.co.uk/property");
+ 	    	OX_50f81df3913c8.addVariable("motors", "http://www.newsletter.co.uk/motors");
+ 	    	OX_50f81df3913c8.addVariable("localbusiness", "http://www.newsletter.co.uk/findit");
+ 	    	OX_50f81df3913c8.addVariable("jobs", "http://www.newsletter.co.uk/jobs");
+ 	    	OX_50f81df3913c8.addVariable("familyannouncements", "http://announce.jpress.co.uk/?source=jpir_belf");
+ 	    // Obs.: classified ads are not fetched here because they can be reused on the same page (pagination)
+    // end classified
+    
+    // setup enterprise ads
+    var OX_50f7db7d97b3b = OX();
+    OX_50f7db7d97b3b.addAdUnit("338307");
+    OX_50f7db7d97b3b.addVariable("gs_cat", gs_topics);
+    //OX_50f7db7d97b3b.addVariable("jp_page_id", "21806");//  the value needs to translate to the page content id as a variable - currently see doubleclick etc
+    OX_50f7db7d97b3b.addVariable("jp_page_id", "215151");
+	//OX_50f7db7d97b3b.addVariable("site", "yorkshire.jp");// in the johnston press variables use dartSite not "yorkshire.jp" example only
+    OX_50f7db7d97b3b.addVariable("site", "belfast.jp");
+       	OX_50f7db7d97b3b.addVariable("siteName", "Belfast Newsletter");
+   		 	OX_50f7db7d97b3b.addVariable("readertravel", "http://www.belfastnewsletter.holidaytoday.co.uk");
+ 		 	OX_50f7db7d97b3b.addVariable("bingo", "http://www.newsletter.co.uk/bingo");
+ 		 	OX_50f7db7d97b3b.addVariable("readershop", "http://www.dealmonster.co.uk/shop");
+ 		 	OX_50f7db7d97b3b.addVariable("dating", "http://www.newsletter.co.uk/dating");
+ 		 	OX_50f7db7d97b3b.addVariable("buyaphoto", "http://mortonsnewspapers.newsprints.co.uk/banr/BELF");
+ 		    OX_50f7db7d97b3b.fetchAds();
+    // end enterprise
+    
+    // setup sky vertical
+    var OX_50f938d6b8286 = OX();
+    OX_50f938d6b8286.addPage("14405");
+    OX_50f938d6b8286.addVariable("gs_cat", gs_topics);
+    //OX_50f938d6b8286.addVariable("jp_page_id", "23929");//  the value needs to translate to the page content id as a variable - currently see doubleclick etc
+    OX_50f938d6b8286.addVariable("jp_page_id", "215151");
+	//OX_50f938d6b8286.addVariable("site", "portsmouth.jp");// in the johnston press variables use dartSite not "portsmouth.jp" example only
+    OX_50f938d6b8286.addVariable("site", "belfast.jp");
+    
+    //OX_50f938d6b8286.addAdUnit("338768");
+    //OX_50f938d6b8286.addAdUnit("338769");
+    //OX_50f938d6b8286.addAdUnit("338771");
+    //OX_50f938d6b8286.addAdUnit("338849");
+    //OX_50f938d6b8286.addAdUnit("338850");
+    //OX_50f938d6b8286.addAdUnit("338851");
+    OX_50f938d6b8286.fetchAds();   
+    // end sky vertical
+    
+    // setup horizontal smart
+    var OX_50fd479337e05 = OX();
+    OX_50fd479337e05.addVariable("gs_cat", gs_topics);
+    //OX_50fd479337e05.addVariable("jp_page_id", "23196");//  the value needs to translate to the page content id as a variable - currently see doubleclick etc
+    OX_50fd479337e05.addVariable("jp_page_id", "215151");
+	//OX_50fd479337e05.addVariable("site", "blackpool.jp");// in the johnston press variables use dartSite not "blackpool.jp" example only
+    OX_50fd479337e05.addVariable("site", "belfast.jp");
+    // Obs.: horizontal ads are not fetched here because they can be reused on the same page (pagination)
+    // end horizontal smart
+}
+</script>
+
+      
+  
+           		
+					<div class="essentials main-content" role="main">
+		<div class="main">
+
+			
+									    									<div class="g972">
+                		
+                  
+    
+      
+        
+	<section class="bg-grad m20-b flt-l">
+					<div id="homepage-carousel" class="homepage-carousel ">
+				        <ul class="content-items js-swap-item-list">          
+				             																																			                       						                 					<li>
+			             					<div class="content-item">
+                        					<div class="txt new">
+											<a href="http://www.newsletter.co.uk/news/tragic-hotel-owner-a-big-man-with-a-big-heart-1-6287246" ></a>
+											<a href="http://www.newsletter.co.uk/news/tragic-hotel-owner-a-big-man-with-a-big-heart-1-6287246" >
+												<p class="hstyles limitcw3l"><span class="ellipsis_text">			Tragic hotel owner ‘a big man with a big heart’
+</span></p>
+											</a>
+																																														<a href="http://www.newsletter.co.uk/news/tragic-hotel-owner-a-big-man-with-a-big-heart-1-6287246" >
+											<p class="descstyles limitcw6l"><span class="ellipsis_text">			Tributes have poured in for respected hotelier Rodney Watson MBE, who died suddenly in his home on Sunday.
+</span></p>  
+											</a>
+																						                        				</div>
+										<div style="width:352px;height:264px;">
+                       					                             				<a href="http://www.newsletter.co.uk/news/tragic-hotel-owner-a-big-man-with-a-big-heart-1-6287246" >
+												<img class="content-img" src="/webimage/1.6288626.1410286206!/image/2330664844.jpg_gen/derivatives/carouselWideDeriv_352px/2330664844.jpg" alt=""  width="352" height="264"/>
+											</a>
+										 																																	
+																						
+										</div>
+                       				 <a href="http://www.newsletter.co.uk/news/tragic-hotel-owner-a-big-man-with-a-big-heart-1-6287246" title="Tragic hotel owner ‘a big man with a big heart’" >view this article</a>
+									 </div>
+                					</li>
+								            																																							                       						                 					<li>
+			             					<div class="content-item">
+                        					<div class="txt ">
+											<a href="http://www.newsletter.co.uk/news/outpouring-of-jubilation-in-frampton-s-neighbourhood-1-6286455" ></a>
+											<a href="http://www.newsletter.co.uk/news/outpouring-of-jubilation-in-frampton-s-neighbourhood-1-6286455" >
+												<p class="hstyles limitcw3l"><span class="ellipsis_text">			Outpouring of jubilation in Frampton’s neighbourhood
+</span></p>
+											</a>
+																																														<a href="http://www.newsletter.co.uk/news/outpouring-of-jubilation-in-frampton-s-neighbourhood-1-6286455" >
+											<p class="descstyles limitcw6l"><span class="ellipsis_text">			Carl Frampton&#8217;s native neighbourhood of Tiger&#8217;s Bay was aglow with pride when the News Letter following the 27-year-old&#8217;s world title victory this afternoon.
+</span></p>  
+											</a>
+																																		<a href="http://www.newsletter.co.uk/news/outpouring-of-jubilation-in-frampton-s-neighbourhood-1-6286455#comments-area" class="carousel-comments">1</a>
+											                        				</div>
+										<div style="width:352px;height:264px;">
+                       					                             				<a href="http://www.newsletter.co.uk/news/outpouring-of-jubilation-in-frampton-s-neighbourhood-1-6286455" >
+												<img class="content-img" src="/webimage/1.6286451.1410204634!/image/2349509907.jpg_gen/derivatives/carouselWideDeriv_352px/2349509907.jpg" alt=""  width="352" height="264"/>
+											</a>
+										 																																	
+																							<div class="overlay-ico">
+													<a href="http://www.newsletter.co.uk/news/outpouring-of-jubilation-in-frampton-s-neighbourhood-1-6286455">
+														<span class="carousel-video left-331">
+														</span>
+													</a>
+												</div>
+																						
+										</div>
+                       				 <a href="http://www.newsletter.co.uk/news/outpouring-of-jubilation-in-frampton-s-neighbourhood-1-6286455" title="Outpouring of jubilation in Frampton’s neighbourhood" >view this article</a>
+									 </div>
+                					</li>
+								            																																							                       						                 					<li>
+			             					<div class="content-item">
+                        					<div class="txt ">
+											<a href="http://www.newsletter.co.uk/news/regional/cardinal-brady-s-resignation-accepted-by-pope-1-6285073" ></a>
+											<a href="http://www.newsletter.co.uk/news/regional/cardinal-brady-s-resignation-accepted-by-pope-1-6285073" >
+												<p class="hstyles limitcw3l"><span class="ellipsis_text">			Cardinal Brady’s resignation accepted by Pope
+</span></p>
+											</a>
+																																														<a href="http://www.newsletter.co.uk/news/regional/cardinal-brady-s-resignation-accepted-by-pope-1-6285073" >
+											<p class="descstyles limitcw6l"><span class="ellipsis_text">			Pope Francis has accepted the resignation of Cardinal Sean Brady, the leader of the Catholic Church in Ireland.
+</span></p>  
+											</a>
+																																		<a href="http://www.newsletter.co.uk/news/regional/cardinal-brady-s-resignation-accepted-by-pope-1-6285073#comments-area" class="carousel-comments">5</a>
+											                        				</div>
+										<div style="width:352px;height:264px;">
+                       					                             				<a href="http://www.newsletter.co.uk/news/regional/cardinal-brady-s-resignation-accepted-by-pope-1-6285073" >
+												<img class="content-img" src="/webimage/1.6242475.1410177433!/image/3480598392.jpg_gen/derivatives/carouselWideDeriv_352px/3480598392.jpg" alt=""  width="352" height="264"/>
+											</a>
+										 																																	
+																						
+										</div>
+                       				 <a href="http://www.newsletter.co.uk/news/regional/cardinal-brady-s-resignation-accepted-by-pope-1-6285073" title="Cardinal Brady’s resignation accepted by Pope" >view this article</a>
+									 </div>
+                					</li>
+								            																																							                       						                 					<li>
+			             					<div class="content-item">
+                        					<div class="txt ">
+											<a href="http://www.newsletter.co.uk/news/tricky-few-days-for-pregnant-kate-1-6284997" ></a>
+											<a href="http://www.newsletter.co.uk/news/tricky-few-days-for-pregnant-kate-1-6284997" >
+												<p class="hstyles limitcw3l"><span class="ellipsis_text">			‘Tricky few days’ for pregnant Kate
+</span></p>
+											</a>
+																																														<a href="http://www.newsletter.co.uk/news/tricky-few-days-for-pregnant-kate-1-6284997" >
+											<p class="descstyles limitcw8l"><span class="ellipsis_text">			The Duke of Cambridge has said his wife has experienced a &#8220;tricky few days&#8221; with very acute morning sickness, but they are thrilled at her pregnancy.
+</span></p>  
+											</a>
+																						                        				</div>
+										<div style="width:352px;height:264px;">
+                       					                             				<a href="http://www.newsletter.co.uk/news/tricky-few-days-for-pregnant-kate-1-6284997" >
+												<img class="content-img" src="/webimage/1.6284996.1410171971!/image/3174102323.jpg_gen/derivatives/carouselWideDeriv_352px/3174102323.jpg" alt=""  width="352" height="264"/>
+											</a>
+										 																																	
+																						
+										</div>
+                       				 <a href="http://www.newsletter.co.uk/news/tricky-few-days-for-pregnant-kate-1-6284997" title="‘Tricky few days’ for pregnant Kate" >view this article</a>
+									 </div>
+                					</li>
+								            																																							                       						                 					<li>
+			             					<div class="content-item">
+                        					<div class="txt ">
+											<a href="http://www.newsletter.co.uk/sport/football/michael-o-neill-enjoys-the-last-laff-with-superb-win-in-hungary-1-6284404" ></a>
+											<a href="http://www.newsletter.co.uk/sport/football/michael-o-neill-enjoys-the-last-laff-with-superb-win-in-hungary-1-6284404" >
+												<p class="hstyles limitcw3l"><span class="ellipsis_text">									Michael O’Neill enjoys the last ‘Laff’ with superb...
+</span></p>
+											</a>
+																																														<a href="http://www.newsletter.co.uk/sport/football/michael-o-neill-enjoys-the-last-laff-with-superb-win-in-hungary-1-6284404" >
+											<p class="descstyles limitcw8l"><span class="ellipsis_text">			Michael O&#8217;Neill lauded match-winner Kyle Lafferty after he inspired Northern Ireland to a first away win in four years in Budapest.
+</span></p>  
+											</a>
+																						                        				</div>
+										<div style="width:352px;height:264px;">
+                       					                             				<a href="http://www.newsletter.co.uk/sport/football/michael-o-neill-enjoys-the-last-laff-with-superb-win-in-hungary-1-6284404" >
+												<img class="content-img" src="/webimage/1.6285383.1410179578!/image/135806565.jpg_gen/derivatives/carouselWideDeriv_352px/135806565.jpg" alt=""  width="352" height="264"/>
+											</a>
+										 																																	
+																						
+										</div>
+                       				 <a href="http://www.newsletter.co.uk/sport/football/michael-o-neill-enjoys-the-last-laff-with-superb-win-in-hungary-1-6284404" title="Michael O’Neill enjoys the last ‘Laff’ with superb win in Hungary" >view this article</a>
+									 </div>
+                					</li>
+								            																																							                       						                 					<li>
+			             					<div class="content-item">
+                        					<div class="txt ">
+											<a href="http://www.newsletter.co.uk/news/best-commemoration-in-years-as-portrush-airshow-draws-to-end-1-6284331" ></a>
+											<a href="http://www.newsletter.co.uk/news/best-commemoration-in-years-as-portrush-airshow-draws-to-end-1-6284331" >
+												<p class="hstyles limitcw3l"><span class="ellipsis_text">									‘Best commemoration in years’ as Portrush airshow...
+</span></p>
+											</a>
+																																														<a href="http://www.newsletter.co.uk/news/best-commemoration-in-years-as-portrush-airshow-draws-to-end-1-6284331" >
+											<p class="descstyles limitcw6l"><span class="ellipsis_text">			This re-arranged Portrush airshow has been hailed a success by the town&#8217;s Royal British Legion branch.
+</span></p>  
+											</a>
+																																		<a href="http://www.newsletter.co.uk/news/best-commemoration-in-years-as-portrush-airshow-draws-to-end-1-6284331#comments-area" class="carousel-comments">1</a>
+											                        				</div>
+										<div style="width:352px;height:264px;">
+                       					                             				<a href="http://www.newsletter.co.uk/news/best-commemoration-in-years-as-portrush-airshow-draws-to-end-1-6284331" >
+												<img class="content-img" src="/webimage/1.6284328.1410114583!/image/104301598.jpg_gen/derivatives/carouselWideDeriv_352px/104301598.jpg" alt=""  width="352" height="264"/>
+											</a>
+										 																																	
+																						
+										</div>
+                       				 <a href="http://www.newsletter.co.uk/news/best-commemoration-in-years-as-portrush-airshow-draws-to-end-1-6284331" title="‘Best commemoration in years’ as Portrush airshow draws to end" >view this article</a>
+									 </div>
+                					</li>
+								            																																							                      				                					<li>
+			             					<div class="content-item">
+                        					<div class="txt ">
+											<a href="http://www.twoscompany.co.uk/jp"  target='_blank'></a>
+											<a href="http://www.twoscompany.co.uk/jp"  target='_blank'>
+												<p class="hstyles limitcw3l"><span class="ellipsis_text">			Try it. Love it. It’s free to join.
+</span></p>
+											</a>
+																																														<a href="http://www.twoscompany.co.uk/jp"  target='_blank'>
+											<p class="descstyles limitcw8l"><span class="ellipsis_text">			
+	Look out for Two's Company, your NEW local dating service. It’s new to your Newspaper but it’s been established for over 23-years and it’s a great way for single people just like you to meet other singles for friendship and romance.
+
+</span></p>  
+											</a>
+																						                        				</div>
+										<div style="width:352px;height:264px;">
+                       					                             				<a href="http://www.twoscompany.co.uk/jp"  target='_blank'>
+												<img class="content-img" src="/webimage/1.5550472.1380725786!/image/2198043407.jpg_gen/derivatives/carouselWideDeriv_352px/2198043407.jpg" alt=""  width="352" height="264"/>
+											</a>
+										 																																	
+																						
+										</div>
+                       				 <a href="http://www.twoscompany.co.uk/jp" title="Try it. Love it. It’s free to join."  target='_blank'>view this article</a>
+									 </div>
+                					</li>
+								            								        </ul>
+				      	<div class="divider gradient"></div>
+						<div class="carousel-menu">
+				            <div class="js-scroller content-menu-holder">
+				                <ul class="js-scroll-item-list">
+				                	 										                            			                            			                            			<li class="cld">
+											<a href="http://www.newsletter.co.uk/news/tragic-hotel-owner-a-big-man-with-a-big-heart-1-6287246" class="item|0| cld" title="Tragic hotel owner ‘a big man with a big heart’" >
+   											   											<span class="thumb">
+                                    		<img src="/webimage/1.6288626.1410286206!/image/2330664844.jpg_gen/derivatives/carouselWideDeriv_352px/2330664844.jpg" alt="" width="85" height="66"/>
+                                    		</span>
+											<p class="title limitcw2l"  style="line-height:15px;"><span class="ellipsis_text">Tragic hotel owner ‘a big man with a big heart’</span></p>
+											</a>
+                            			</li>
+    									                    														                            			                            			                            			<li class="cld">
+											<a href="http://www.newsletter.co.uk/news/outpouring-of-jubilation-in-frampton-s-neighbourhood-1-6286455" class="item|1| cld" title="Outpouring of jubilation in Frampton’s neighbourhood" >
+   											   											<span class="thumb">
+                                    		<img src="/webimage/1.6286451.1410204634!/image/2349509907.jpg_gen/derivatives/carouselWideDeriv_352px/2349509907.jpg" alt="" width="85" height="66"/>
+                                    		</span>
+											<p class="title limitcw2l"  style="line-height:15px;"><span class="ellipsis_text">Outpouring of jubilation in Frampton’s neighbourhood</span></p>
+											</a>
+                            			</li>
+    									                    														                            			                            			                            			<li class="cld">
+											<a href="http://www.newsletter.co.uk/news/regional/cardinal-brady-s-resignation-accepted-by-pope-1-6285073" class="item|2| cld" title="Cardinal Brady’s resignation accepted by Pope" >
+   											   											<span class="thumb">
+                                    		<img src="/webimage/1.6242475.1410177433!/image/3480598392.jpg_gen/derivatives/carouselWideDeriv_352px/3480598392.jpg" alt="" width="85" height="66"/>
+                                    		</span>
+											<p class="title limitcw2l"  style="line-height:15px;"><span class="ellipsis_text">Cardinal Brady’s resignation accepted by Pope</span></p>
+											</a>
+                            			</li>
+    									                    														                            			                            			                            			<li class="cld">
+											<a href="http://www.newsletter.co.uk/news/tricky-few-days-for-pregnant-kate-1-6284997" class="item|3| cld" title="‘Tricky few days’ for pregnant Kate" >
+   											   											<span class="thumb">
+                                    		<img src="/webimage/1.6284996.1410171971!/image/3174102323.jpg_gen/derivatives/carouselWideDeriv_352px/3174102323.jpg" alt="" width="85" height="66"/>
+                                    		</span>
+											<p class="title limitcw2l"  style="line-height:15px;"><span class="ellipsis_text">‘Tricky few days’ for pregnant Kate</span></p>
+											</a>
+                            			</li>
+    									                    														                            			                            			                            			<li class="cld">
+											<a href="http://www.newsletter.co.uk/sport/football/michael-o-neill-enjoys-the-last-laff-with-superb-win-in-hungary-1-6284404" class="item|4| cld" title="Michael O’Neill enjoys the last ‘Laff’ with superb win in Hungary" >
+   											   											<span class="thumb">
+                                    		<img src="/webimage/1.6285383.1410179578!/image/135806565.jpg_gen/derivatives/carouselWideDeriv_352px/135806565.jpg" alt="" width="85" height="66"/>
+                                    		</span>
+											<p class="title limitcw2l"  style="line-height:15px;"><span class="ellipsis_text">Michael O’Neill enjoys the last ‘Laff’ with superb win in Hungary</span></p>
+											</a>
+                            			</li>
+    									                    														                            			                            			                            			<li class="cld">
+											<a href="http://www.newsletter.co.uk/news/best-commemoration-in-years-as-portrush-airshow-draws-to-end-1-6284331" class="item|5| cld" title="‘Best commemoration in years’ as Portrush airshow draws to end" >
+   											   											<span class="thumb">
+                                    		<img src="/webimage/1.6284328.1410114583!/image/104301598.jpg_gen/derivatives/carouselWideDeriv_352px/104301598.jpg" alt="" width="85" height="66"/>
+                                    		</span>
+											<p class="title limitcw2l"  style="line-height:15px;"><span class="ellipsis_text">‘Best commemoration in years’ as Portrush airshow draws to end</span></p>
+											</a>
+                            			</li>
+    									                    														                            			    									                            			<li class="cld">
+											<a href="http://www.twoscompany.co.uk/jp" class="item|6| cld" title="Try it. Love it. It’s free to join."  target='_blank'>
+   											   											<span class="thumb">
+                                    		<img src="/webimage/1.5550472.1380725786!/image/2198043407.jpg_gen/derivatives/carouselWideDeriv_352px/2198043407.jpg" alt="" width="85" height="66"/>
+                                    		</span>
+											<p class="title limitcw2l"  style="line-height:15px;"><span class="ellipsis_text">Try it. Love it. It’s free to join.</span></p>
+											</a>
+                            			</li>
+    									                    												</ul>
+							</div>
+							<div class="js-nav nav">
+								<span class="prev js-prev"></span>
+								<span class="next js-next"></span>
+								<span class="bar bar-t"></span>
+								<span class="bar bar-b"></span>
+							</div>
+							<span class="arrow js-arrow">&nbsp;</span>
+				        </div>
+				    </div>
+				</section>
+				<div class="clearer"></div>
+<script type="text/javascript">
+	new JP.Carousel("homepage-carousel",{
+			scrollItemListOffsetTop:24,
+			updateFrequency:8000,
+			staticCarousel:!(true)
+	});	
+
+	$(document).ready( function() {
+		$('.limitcw3l').ThreeDots({max_rows:3});
+		$('.limitcw8l').ThreeDots({max_rows:8});
+		$('.limitcw6l').ThreeDots({max_rows:6});
+		$('.limitcw2l').ThreeDots({max_rows:2});
+	});
+</script>
+	
+
+      
+  
+      					</div>
+    																
+			
+						<div class="g324 flt-r m20-r">
+				
+								<aside>
+					 <div class="dc-med-rect">
+					             		 	
+                  
+    
+      
+        
+
+<div id="adTag_3" class="adTag">
+	<script type="text/javascript">
+	var ord = window.ord || Math.floor(Math.random() * 1e16);
+	document.write('<script src="http://ad.uk.doubleclick.net/N3948/adj/belfast.jp/home;pgid=215151;tile=3;sz=300x250,300x600;;pos=0;' + (typeof(dartCC) != "undefined" ? dartCC : "") + ';gs_cat='+gs_topics+';;weathertoday=sunny;weathertomorrow=sunnyspells;ord=' + ord + '? " type="text/javascript"></scr'+'ipt>');
+	</script>
+	<noscript>
+	  <a href="http://ad.uk.doubleclick.net/jump/belfast.jp/home;pgid=215151;tile=2;sz=300x250,300x600;;pos=0;gs_cat=GS_TOPIC;weathertoday=sunny;weathertomorrow=sunnyspells;ord=[timestamp]?" target="_blank">
+    	<img src="http://ad.uk.doubleclick.net/ad/belfast.jp/home;pgid=215151;tile=2;sz=300x250,300x600;;pos=0;gs_cat=GS_TOPIC;weathertoday=sunny;weathertomorrow=sunnyspells;ord=[timestamp]?" alt="Dynamic Dart Advertisement" />
+	  </a>
+	</noscript>
+</div>
+
+
+      
+  
+           				      				</div>
+				</aside>
+								
+																								
+																
+																				
+								
+					             			
+                  
+    
+      
+        						
+	<aside class="discover" id="discoveryWidget">
+		<h3>Discover The Most ...</h3>
+		<ul class="htabs tabWith2items" aria-labelledby="discoverTabs" role="tablist">
+												<li id="discoverTabs-1t" role="presentation">
+						<a href="#discoverTabs-1" title="" aria-controls="Viewed" role="tab" aria-selected="false">Viewed</a>
+					</li>
+																							<li id="discoverTabs-3t" role="presentation">
+						<a href="#discoverTabs-3" title="" aria-controls="Discussed" role="tab" aria-selected="false">Discussed</a>
+					</li>
+																</ul>
+															<ul id="discoverTabs-1" class="tab" role="tabpanel" aria-labelledby="discoverTab-1">
+																							<li role="presentation">
+								<span class="no">1</span>
+		    					<a href="/news/the-end-of-an-era-for-band-scene-1-6276564"  class="limited_discover" title=""><span class="ellipsis_text">The end of an era for band scene</span></a>
+		    				</li>
+													<li role="presentation">
+								<span class="no">2</span>
+		    					<a href="/news/no-wonder-queen-is-worried-uk-as-we-know-it-is-in-peril-1-6286450"  class="limited_discover" title=""><span class="ellipsis_text">No wonder Queen is worried: UK as we know it is in peril</span></a>
+		    				</li>
+													<li role="presentation">
+								<span class="no">3</span>
+		    					<a href="/news/dup-is-making-an-ass-of-the-assembly-1-6284167"  class="limited_discover" title=""><span class="ellipsis_text">DUP is making an ass of the Assembly</span></a>
+		    				</li>
+													<li role="presentation">
+								<span class="no">4</span>
+		    					<a href="/news/regional/peter-robinson-scottish-independence-would-be-a-tragedy-1-6285338"  class="limited_discover" title=""><span class="ellipsis_text">Peter Robinson: Scottish independence would be a tragedy</span></a>
+		    				</li>
+													<li role="presentation">
+								<span class="no">5</span>
+		    					<a href="/news/regional/man-dead-after-road-traffic-collision-co-down-1-6286759"  class="limited_discover" title=""><span class="ellipsis_text">Man dead after road traffic collision, Co Down</span></a>
+		    				</li>
+								    				    	</ul>
+	    																							<ul id="discoverTabs-3" class="tab" role="tabpanel" aria-labelledby="discoverTab-3">
+																							<li role="presentation">
+								<span class="no">1</span>
+		    					<a href="/news/regional/peter-robinson-scottish-independence-would-be-a-tragedy-1-6285338"  class="limited_discover" title=""><span class="ellipsis_text">Peter Robinson: Scottish independence would be a tragedy</span></a>
+		    				</li>
+													<li role="presentation">
+								<span class="no">2</span>
+		    					<a href="/news/regional/shock-scottish-poll-puts-yes-camp-in-front-1-6284085"  class="limited_discover" title=""><span class="ellipsis_text">Shock Scottish poll puts Yes camp in front</span></a>
+		    				</li>
+													<li role="presentation">
+								<span class="no">3</span>
+		    					<a href="/news/regional/stormont-in-serious-need-of-reform-with-st-andrew-s-style-process-robinson-1-6286815"  class="limited_discover" title=""><span class="ellipsis_text">Stormont in serious need of reform with St Andrew’s-style process: Robinson</span></a>
+		    				</li>
+													<li role="presentation">
+								<span class="no">4</span>
+		    					<a href="/news/regional/queen-s-deep-concerns-for-scotland-as-yes-enters-lead-1-6284541"  class="limited_discover" title=""><span class="ellipsis_text">Queen’s deep concerns for Scotland as Yes enters lead</span></a>
+		    				</li>
+													<li role="presentation">
+								<span class="no">5</span>
+		    					<a href="/news/regional/sectarian-comments-row-damaging-confidence-1-6288164"  class="limited_discover" title=""><span class="ellipsis_text">Sectarian comments row ‘damaging confidence’</span></a>
+		    				</li>
+								    				    	</ul>
+	    									</aside>
+	
+	<script>
+		$(document).ready(function() {
+			// apply the shortenning while the area is visible
+		    $('.limited_discover').ThreeDots({max_rows:2});
+		    new JP.TabbedList("discover", {changeFrequency: 10000});
+	    });
+	</script>
+
+
+      
+  
+           								
+							</div>
+			
+			<div class="g648" id="content" tabindex="-4">				
+								
+																											            			
+                  
+    
+      
+        
+	 <section class="bdr-l m10-b" role="content">
+
+	<a href="http://www.newsletter.co.uk/news">
+		<h2>News</h2>
+	</a>
+			<a href="/rss/cmlink/1.1571541" class="rss"><img src="/assets/images/iconsEtc/rss.gif" alt="rss" /></a>
+		<div class="section-title-bg cld"></div>
+										
+									
+		 <article role="article" class="lead-story new has-image no-video no-gallery">			<a href="http://www.newsletter.co.uk/news/tragic-hotel-owner-a-big-man-with-a-big-heart-1-6287246">
+								<img class="flt-l" src="/webimage/1.6288626.1410286206!/image/2330664844.jpg_gen/derivatives/sstLeadStoryDeriv_196px/2330664844.jpg" width="196" height="138" />
+							<h5>
+		         	Tragic hotel owner ‘a big man with a big heart’
+		        </h5>
+	        </a>
+						<a href="http://www.newsletter.co.uk/news/tragic-hotel-owner-a-big-man-with-a-big-heart-1-6287246" class="sst1221">
+				<span class="ellipsis_text"><!--PSTYLE=WINT_WEB INTRO-->Tributes have poured in for respected hotelier Rodney Watson MBE, who died suddenly in his home on Sunday.</span>
+			</a>
+											</article>
+
+		<section class="g304 inside" role="list">
+																																
+																					
+					 <article role="article" class="teaser  has-image  no-gallery" role="listitem"> 
+													<div class="overlay-ico">
+								<a href="http://www.newsletter.co.uk/news/regional/video-robinson-defends-position-on-welfare-reform-impasse-1-6288928">
+									<span class="teaser-video"></span>
+								</a>
+							</div>
+																		    				      	 <a href="http://www.newsletter.co.uk/news/regional/video-robinson-defends-position-on-welfare-reform-impasse-1-6288928">
+        	<img width="130" height="98" alt="Peter Robinson." src="/webimage/1.6288941.1410309006!/image/1218053538.jpg_gen/derivatives/sstStoryDeriv_130px/1218053538.jpg"  class="flt-l">        
+      	</a>
+    						<a class="m0-b" href="http://www.newsletter.co.uk/news/regional/video-robinson-defends-position-on-welfare-reform-impasse-1-6288928">VIDEO: Robinson defends position on welfare reform impasse</a>
+
+													<p class="fnt-11 m0-b">
+																	<a class="ico ico-comments comments-pos" href="http://www.newsletter.co.uk/news/regional/video-robinson-defends-position-on-welfare-reform-impasse-1-6288928#comments-area">						1
+			</a>
+															</p>
+											</article>
+																																							
+																
+					 <article role="article" class="teaser  has-image no-video no-gallery" role="listitem"> 
+																		    				      	 <a href="http://www.newsletter.co.uk/news/regional/otr-letters-no-guarantee-against-prosecution-villiers-1-6288731">
+        	<img width="130" height="98" alt="Secretary of State Theresa Villiers" src="/webimage/1.6288730.1410290819!/image/496390266.jpg_gen/derivatives/sstStoryDeriv_130px/496390266.jpg"  class="flt-l">        
+      	</a>
+    						<a class="m0-b" href="http://www.newsletter.co.uk/news/regional/otr-letters-no-guarantee-against-prosecution-villiers-1-6288731">OTR letters no guarantee against prosecution: Villiers</a>
+
+													<p class="fnt-11 m0-b">
+																	<a class="ico ico-comments comments-pos" href="http://www.newsletter.co.uk/news/regional/otr-letters-no-guarantee-against-prosecution-villiers-1-6288731#comments-area">						6
+			</a>
+															</p>
+											</article>
+																																							
+																
+					 <article role="article" class="teaser  has-image no-video no-gallery" role="listitem"> 
+																		    				      	 <a href="http://www.newsletter.co.uk/news/regional/stormont-in-serious-need-of-reform-with-st-andrew-s-style-process-robinson-1-6286815">
+        	<img width="130" height="98" alt="It is common for OFMDFM to ignore media requests when Peter Robinson (right) and Martin McGuinness cannot agree on an answer" src="/webimage/1.6223958.1410249894!/image/2732595575.jpg_gen/derivatives/sstStoryDeriv_130px/2732595575.jpg"  class="flt-l">        
+      	</a>
+    						<a class="m0-b" href="http://www.newsletter.co.uk/news/regional/stormont-in-serious-need-of-reform-with-st-andrew-s-style-process-robinson-1-6286815">Stormont in serious need of reform with St Andrew’s-style process: Robinson</a>
+
+													<p class="fnt-11 m0-b">
+																	<a class="ico ico-comments comments-pos" href="http://www.newsletter.co.uk/news/regional/stormont-in-serious-need-of-reform-with-st-andrew-s-style-process-robinson-1-6286815#comments-area">						10
+			</a>
+															</p>
+											</article>
+																																							
+																
+					 <article role="article" class="teaser  has-image no-video no-gallery" role="listitem"> 
+																		    				      	 <a href="http://www.newsletter.co.uk/news/regional/man-dead-after-road-traffic-collision-co-down-1-6286759">
+        	<img width="130" height="98" alt="Crash" src="/webimage/1.5843892.1410247422!/image/3609794950.jpg_gen/derivatives/sstStoryDeriv_130px/3609794950.jpg"  class="flt-l">        
+      	</a>
+    						<a class="m0-b" href="http://www.newsletter.co.uk/news/regional/man-dead-after-road-traffic-collision-co-down-1-6286759">Man dead after road traffic collision, Co Down</a>
+
+													<p class="fnt-11 m0-b">
+																	<a class="ico ico-comments comments-pos" href="http://www.newsletter.co.uk/news/regional/man-dead-after-road-traffic-collision-co-down-1-6286759#comments-area">						1
+			</a>
+															</p>
+											</article>
+																																							
+																
+					 <article role="article" class="teaser  has-image no-video no-gallery" role="listitem"> 
+																		    				      	 <a href="http://www.newsletter.co.uk/news/politics/latest/scottish-independence-leaders-trip-a-blunder-1-6288781">
+        	<img width="130" height="98" alt="No supporters gathered outside the Dynamic Earth science centre in Edinburgh yesterday" src="/webimage/1.6288780.1410291667!/image/3752161225.jpg_gen/derivatives/sstStoryDeriv_130px/3752161225.jpg"  class="flt-l">        
+      	</a>
+    						<a class="m0-b" href="http://www.newsletter.co.uk/news/politics/latest/scottish-independence-leaders-trip-a-blunder-1-6288781">Scottish independence: Leaders’ trip a ‘blunder’</a>
+
+											</article>
+																			</section>
+
+		<div class="midcol">
+																		<section role="list" class="m30-b">
+							<a class="title-bg cld" href="http://www.newsletter.co.uk/news/regional">
+								<h5 class="flt-l">Regional</h5>
+							</a>
+							<ul class="fnt-12">
+																																																					<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/news/regional/ni-businessman-settles-13-5m-tax-bill-in-republic-1-6288583">NI businessman settles €13.5m tax bill in Republic</a>
+										</li>
+																																																																<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/news/regional/large-drop-in-farm-deaths-1-6288570">Large drop in farm deaths</a>
+										</li>
+																																																																<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/news/regional/diarmuid-martin-mckernan-jailed-for-four-years-over-amateurish-petrol-station-robbery-1-6288562">Diarmuid Martin McKernan jailed for four years over ‘amateurish’ petrol station robbery</a>
+										</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																</ul>
+						</section>
+																				<section role="list" class="m30-b">
+							<a class="title-bg cld" href="http://www.newsletter.co.uk/news/politics">
+								<h5 class="flt-l">Politics</h5>
+							</a>
+							<ul class="fnt-12">
+																																																					<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/news/politics/latest/scottish-independence-currency-union-incompatible-1-6288199">Scottish independence: Currency union ‘incompatible’</a>
+										</li>
+																																																																<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/news/regional/sectarian-comments-row-damaging-confidence-1-6288164">Sectarian comments row ‘damaging confidence’</a>
+										</li>
+																																																																<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/news/orange-parade-in-edinburgh-may-be-counter-productive-1-6288127">Orange parade in Edinburgh may be counter productive</a>
+										</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																			</ul>
+						</section>
+																				<section role="list" class="m30-b">
+							<a class="title-bg cld" href="http://www.newsletter.co.uk/news/business">
+								<h5 class="flt-l">Business</h5>
+							</a>
+							<ul class="fnt-12">
+																																																					<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/news/regional/ni-businessman-settles-13-5m-tax-bill-in-republic-1-6288583">NI businessman settles €13.5m tax bill in Republic</a>
+										</li>
+																																																																<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/news/business/dard-management-notes-dairying-1-6275528">DARD MANAGEMENT NOTES: Dairying</a>
+										</li>
+																																																																<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/news/business/oh-brothers-new-holland-tractor-joins-notting-hill-carnival-parade-1-6271287">Oh Brothers! New Holland tractor joins Notting Hill carnival parade</a>
+										</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							</ul>
+						</section>
+														</div>
+		<div class="clear">&nbsp;</div>
+	</section>
+<script type="text/javascript">					
+	$(document).ready(function (){
+		$('.sst1221').ThreeDots({max_rows:3});
+	});
+</script>
+      
+  
+           												
+							
+																						    			     													   			
+                  
+    
+      
+        <aside class="commercialAd" aria-atomic="true" aria-busy="true" aria-live="polite">	
+<script type="text/javascript">
+if(typeof(OX_50f81df3913c8) !== "undefined"){
+	OX_50f81df3913c8.addPage("14388");
+    //OX_50f81df3913c8.addAdUnit("336983");
+    //OX_50f81df3913c8.addAdUnit("336984");
+    //OX_50f81df3913c8.addAdUnit("336985");
+    //OX_50f81df3913c8.addAdUnit("338493");
+    //OX_50f81df3913c8.addAdUnit("338494");
+    //OX_50f81df3913c8.addAdUnit("338495");
+    OX_50f81df3913c8.fetchAds();
+}
+</script>
+<div id="commercialAd-inner-1">
+	<ul class="horizontal-carousels">
+	    <li>
+                        <script type="text/javascript">
+            	if(typeof(OX_50f81df3913c8) !== "undefined"){
+                	OX_50f81df3913c8.showAdUnit("336983");
+                }
+            </script>                    
+	    </li>
+	    <li>
+	        	        <script type="text/javascript">
+	            if(typeof(OX_50f81df3913c8) !== "undefined"){
+                	OX_50f81df3913c8.showAdUnit("336984");
+                }
+	        </script>                
+	    </li>
+	    <li>
+	        	        <script type="text/javascript">
+	            if(typeof(OX_50f81df3913c8) !== "undefined"){
+                	OX_50f81df3913c8.showAdUnit("336985");
+                }
+	        </script>                
+	    </li>
+	    <li>
+	        	        <script type="text/javascript">
+	            if(typeof(OX_50f81df3913c8) !== "undefined"){
+                	OX_50f81df3913c8.showAdUnit("338493");
+                }
+	        </script>                
+	    </li>
+	    <li>
+	        	        <script type="text/javascript">
+	            if(typeof(OX_50f81df3913c8) !== "undefined"){
+                	OX_50f81df3913c8.showAdUnit("338494");
+                }
+	        </script>                
+	    </li>
+	    <li>
+	        	        <script type="text/javascript">
+	            if(typeof(OX_50f81df3913c8) !== "undefined"){
+                	OX_50f81df3913c8.showAdUnit("338495");
+                }
+	        </script>                
+	    </li> 
+	
+	</ul>
+</div>
+
+<nav class="js-nav nav" style="display: block;">
+    <span class="prev"></span>
+    <span class="next"></span>
+</nav>
+</aside>
+      
+  
+         	    						
+								<section role="content">
+					
+					 					 						 							            			
+                  
+    
+      
+        
+	    <a href="http://www.newsletter.co.uk/sport"><h2>Sport</h2></a>
+                    	<a href="/rss/cmlink/1.1571567" class="rss"><img src="/assets/images/iconsEtc/rss.gif" alt="rss" /></a>
+        	<div class="section-title-bg cld"></div>
+
+<section role="list">
+	<article role="article" class="g432 inside img-caption pos-r m20-b teaser-sport">
+							<img width="412" height="306"  src="/webimage/1.6288820.1410303254!/image/1136076861.jpg_gen/derivatives/sst2LeadStoryDeriv_412px/1136076861.jpg">  
+					<h6 class="overlay">TENNIS: Karola Bejenaru faces tough test in Spain</h6>
+		<a href="http://www.newsletter.co.uk/sport/tennis-karola-bejenaru-faces-tough-test-in-spain-1-6288821">Click here to view</a>	
+	</article>
+	<div role="list" class="g216">
+					<article role="article" class="img-caption pos-r m30-b">
+									<img width="196" height="138"  src="/webimage/1.6288725.1410303163!/image/2787215184.jpg_gen/derivatives/sstLeadStoryDeriv_196px/2787215184.jpg">        
+								<div class="overlay-sm limitedp02" style="width:180px;line-height:15px;">
+                   <span class="ellipsis_text">Lots of fine performances throughout all levels</span>
+				</div>
+				<a href="http://www.newsletter.co.uk/sport/cricket/lots-of-fine-performances-throughout-all-levels-1-6288726">Click here to view</a>	
+			</article>
+							<article role="article" class="img-caption pos-r">
+									<img width="196" height="138"  src="/webimage/1.6288584.1410303307!/image/760155427.jpg_gen/derivatives/sstLeadStoryDeriv_196px/760155427.jpg">        
+								<div class="overlay-sm limitedp12" style="width:180px;line-height:15px;font-size:14px;">
+					<span class="ellipsis_text">Pro Cricketers’ chief Porter keen to keep a lid on Ali row</span>
+				</div>
+				<a href="http://www.newsletter.co.uk/sport/cricket/pro-cricketers-chief-porter-keen-to-keep-a-lid-on-ali-row-1-6288587">Click here to view</a>
+			</article>
+			</div>
+</section>	
+		
+<div class="clear">&nbsp;</div>
+							
+<section class="bdr-l m10-b">
+	<div class="g304 inside" role="list">
+					 			 										 							
+						
+												
+			 <article role="article" class="teaser  has-image no-video no-gallery" role="listitem"> 													
+												    				      	 <a href="http://www.newsletter.co.uk/sport/cricket/double-trophy-delight-for-academy-1-6288722">
+        	<img width="130" height="98" alt="Section Two winners Academy" src="/webimage/1.6288721.1410303105!/image/3881794768.jpg_gen/derivatives/sstStoryDeriv_130px/3881794768.jpg"  class="flt-l">        
+      	</a>
+    	            <a class="m0-b" href="http://www.newsletter.co.uk/sport/cricket/double-trophy-delight-for-academy-1-6288722">Double trophy delight for Academy</a>
+							</article>
+		 			 							 										 							
+						
+												
+			 <article role="article" class="teaser  has-image no-video no-gallery" role="listitem"> 													
+												    				      	 <a href="http://www.newsletter.co.uk/sport/football/under-21s-end-campaign-with-defeat-1-6288888">
+        	<img width="130" height="98" alt="Northern Ireland	s James Gray with Serbia s Aleksandar Pesic" src="/webimage/1.6288887.1410302952!/image/2151241843.jpg_gen/derivatives/sstStoryDeriv_130px/2151241843.jpg"  class="flt-l">        
+      	</a>
+    	            <a class="m0-b" href="http://www.newsletter.co.uk/sport/football/under-21s-end-campaign-with-defeat-1-6288888">Under 21s end campaign with defeat</a>
+							</article>
+		 			 							 										 							
+						
+												
+			 <article role="article" class="teaser  has-image no-video no-gallery" role="listitem"> 													
+												    				      	 <a href="http://www.newsletter.co.uk/sport/rugby/ulster-have-midfield-selection-issues-as-jared-payne-suffers-injury-1-6288855">
+        	<img width="130" height="98" alt="Jared Payne" src="/webimage/1.6288860.1410297055!/image/4142222160.jpg_gen/derivatives/sstStoryDeriv_130px/4142222160.jpg"  class="flt-l">        
+      	</a>
+    	            <a class="m0-b" href="http://www.newsletter.co.uk/sport/rugby/ulster-have-midfield-selection-issues-as-jared-payne-suffers-injury-1-6288855">Ulster have midfield selection issues as Jared Payne suffers injury</a>
+							</article>
+		 			 							 										 							
+						
+												
+			 <article role="article" class="teaser  has-image no-video no-gallery" role="listitem"> 													
+												    				      	 <a href="http://www.newsletter.co.uk/sport/champion-marin-cilic-takes-time-to-reflect-on-unreal-us-open-victory-1-6288617">
+        	<img width="130" height="98" alt="Marin Cilic pictured with the U.S. Open tennis men's singles trophy at the Top of the Rock Observation Deck at Rockefeller Center. AP Photo/Mike Groll." src="/webimage/1.6288615.1410303427!/image/1322258029.jpg_gen/derivatives/sstStoryDeriv_130px/1322258029.jpg"  class="flt-l">        
+      	</a>
+    	            <a class="m0-b" href="http://www.newsletter.co.uk/sport/champion-marin-cilic-takes-time-to-reflect-on-unreal-us-open-victory-1-6288617">Champion Marin Cilic takes time to reflect on ‘unreal’ US Open victory</a>
+							</article>
+		 			 							 										 							
+						
+												
+			 <article role="article" class="teaser  has-image no-video no-gallery" role="listitem"> 													
+												    				      	 <a href="http://www.newsletter.co.uk/sport/motorsport/formula-one/michael-schumacher-moves-home-to-continue-his-recovery-1-6288616">
+        	<img width="130" height="98" alt="Michael Schumacher has moved home to continue his recovery" src="/webimage/1.6288614.1410303488!/image/885244239.jpg_gen/derivatives/sstStoryDeriv_130px/885244239.jpg"  class="flt-l">        
+      	</a>
+    	            <a class="m0-b" href="http://www.newsletter.co.uk/sport/motorsport/formula-one/michael-schumacher-moves-home-to-continue-his-recovery-1-6288616">Michael Schumacher moves home to continue his recovery</a>
+							</article>
+		 			 							</div>
+	
+	<div class="midcol">
+								 					 	<section role="list" class="m30-b">
+						<a class="title-bg cld" href="http://www.newsletter.co.uk/sport/football">
+							<h5 class="flt-l">Football</h5>
+						</a>
+						<ul class="fnt-12">
+						 						 						 																			                    <li class="txt-t ">
+								<a class=" " href="http://www.newsletter.co.uk/sport/football/euro-2016-niall-mcginn-daring-to-dream-after-massive-win-in-hungary-1-6286602">Euro 2016: Niall McGinn daring to dream after massive win in Hungary</a>
+							</li>
+																				 						 																			                    <li class="txt-t ">
+								<a class=" " href="http://www.newsletter.co.uk/sport/football/round-up/seamus-coleman-tips-aiden-mcgeady-as-regular-match-winner-for-republic-of-ireland-1-6286141">Seamus Coleman tips Aiden McGeady as regular match-winner for Republic of Ireland</a>
+							</li>
+																				 						 																			                    <li class="txt-t ">
+								<a class=" " href="http://www.newsletter.co.uk/sport/football/ifa-announces-series-of-club-and-volunteer-seminars-1-6286232">IFA announces series of club and volunteer seminars</a>
+							</li>
+																				 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						</ul>
+					</section>
+										 					 	<section role="list" class="m30-b">
+						<a class="title-bg cld" href="http://www.newsletter.co.uk/sport/motorcycling">
+							<h5 class="flt-l">Motorcycling</h5>
+						</a>
+						<ul class="fnt-12">
+						 						 						 																			                    <li class="txt-t ">
+								<a class=" " href="http://www.newsletter.co.uk/sport/motorcycling/alastair-seeley-refusing-to-give-up-on-british-supersport-title-1-6286607">Alastair Seeley refusing to give up on British Supersport title</a>
+							</li>
+																				 						 																			                    <li class="txt-t ">
+								<a class=" " href="http://www.newsletter.co.uk/sport/motorcycling/william-cowden-comfortable-in-dublin-hospital-after-killalane-crash-1-6286549">William Cowden ‘comfortable’ in Dublin hospital after Killalane crash</a>
+							</li>
+																				 						 																			                    <li class="txt-t ">
+								<a class=" " href="http://www.newsletter.co.uk/sport/motorcycling/michael-dunlop-clinches-killalane-victory-in-season-finale-1-6284392">Michael Dunlop clinches Killalane victory in season finale</a>
+							</li>
+																				 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						</ul>
+					</section>
+										 					 	<section role="list" class="m30-b">
+						<a class="title-bg cld" href="http://www.newsletter.co.uk/sport/cricket">
+							<h5 class="flt-l">Cricket</h5>
+						</a>
+						<ul class="fnt-12">
+						 						 						 																			                    <li class="txt-t ">
+								<a class=" " href="http://www.newsletter.co.uk/sport/cricket/craig-young-shines-as-ireland-brush-aside-scotland-1-6286611">Craig Young shines as Ireland brush aside Scotland</a>
+							</li>
+																				 						 																			                    <li class="txt-t ">
+								<a class=" " href="http://www.newsletter.co.uk/sport/cricket/carrickfergus-are-preparing-for-a-return-to-top-flight-1-6284426">Carrickfergus are preparing for a return to top flight</a>
+							</li>
+																				 						 																			                    <li class="txt-t ">
+								<a class=" " href="http://www.newsletter.co.uk/sport/cricket/gareth-mckeegan-rues-brigade-batting-failures-1-6284425">Gareth McKeegan rues Brigade batting failures</a>
+							</li>
+																				 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						 							 						</ul>
+					</section>
+										</div>
+	<div class="clear">&nbsp;</div>
+</section>
+				
+
+<script type="text/javascript">					
+	$(document).ready(function (){
+		$('.limitedp02').ThreeDots({max_rows:2});
+		$('.limitedp12').ThreeDots({max_rows:2});
+		$('.limitedp02').css('padding','8px');
+		$('.limitedp12').css('padding','8px');
+	});
+</script>
+      
+  
+           								</section>
+								
+				 								  			
+                  
+    
+      
+        					<aside class="smartAd" aria-atomic="true" aria-busy="true" aria-live="polite">
+							</aside>
+		
+      
+  
+        									
+								<section>
+					             															
+                  
+    
+      
+        							
+		
+		<section class="main-column-view videoTeaser">
+	<a href="http://www.newsletter.co.uk/video"><h2>Video</h2></a>
+			<a href="/rss/cmlink/1.5976833" class="rss"><img src="/assets/images/iconsEtc/rss.gif" alt="rss" /></a>
+		<div class="section-title-bg cld"></div>
+	<aside class="videoteaser main-column-view">		
+		<div class="g304 left large">
+			<a href="/video/news/peter-robinson-on-welfare-reform-impasse-3776510130001" class="video-link">
+				<span class="video-image">
+					<img src="http://brightcove.vo.llnwd.net/v1/unsecured/media/2128085001/201409/978/2128085001_3776508104001_vs-540f884be4b027681670fe28-782203293001.jpg?pubId=2128085001" title="" alt="">
+					<span class="video-title">
+						<div><span>			Peter Robinson on welfare reform impasse
+</span></div>
+						<small class="video-duration">01:47</small>
+					</span>			
+					<span class="video-play play-36"></span>
+				</span>
+			</a>
+		</div>
+		<div class="g304 right small">
+						<ul class="video-thumbs">
+																	<li>
+						<a href="/video/news/victory-event-for-carl-3776050694001" class="video-link">
+							<span class="video-image">
+								<img src="/videoimage/3776050694001" title="" alt="">
+								<small class="video-duration">03:26</small>
+								<span class="video-play play-26"></span>
+							</span>
+							<span class="video-title">			Victory event for Carl
+</span>
+						</a>
+					</li>
+									<li>
+						<a href="/video/news/frampton-win-reaction-3773751498001" class="video-link">
+							<span class="video-image">
+								<img src="/videoimage/3773751498001" title="" alt="">
+								<small class="video-duration">01:33</small>
+								<span class="video-play play-26"></span>
+							</span>
+							<span class="video-title">			Frampton win reaction
+</span>
+						</a>
+					</li>
+							</ul>	
+						<a href="http://www.newsletter.co.uk/video" class="primaryBtn">View more videos</a>
+		</div>
+	</aside>
+</section>	
+      
+  
+      									</section>
+								
+				
+								<section>
+					            																														
+
+
+<div class="editorialSection">
+    
+		
+				 		 								<div class="UGC_gen">
+	<aside class="UGC_openModalG">
+		
+	    <div class="UGC_openModal_content">
+	    <h3>Share your story</h3> 
+	    	        <p>Shape the news in your area by submitting your own stories, photos and videos</p>
+	    	    </div>	    
+	    
+        <a href="" onClick="javascript:return false;" class="mainHeadline ugcGenericOpenLink">
+	         
+	    <span class="additem pen">
+	        <svg xml:space="preserve" enable-background="new 0 0 25.51 25.51" viewBox="0 0 25.51 25.51" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="pen-icon" version="1.1">
+	            <path d="M12.77,0C5.726,0,0.015,5.711,0.015,12.756S5.726,25.512,12.77,25.512s12.756-5.711,12.756-12.756
+	            C25.524,5.711,19.813,0,12.77,0z M7.676,18.791c-0.144,0.143-0.37,0.143-0.514,0c-0.143-0.141-0.143-0.371,0-0.512l0.529-0.531
+	            l0.514,0.512c0,0-0.188,0.191-0.345,0.346c-0.062,0.062-0.123,0.123-0.155,0.154C7.688,18.779,7.676,18.791,7.676,18.791z
+	             M11.381,16.758c-1.079,1.078-1.407,1.09-2.854,1.584c0,0-0.07-0.428-0.309-0.664c-0.222-0.219-0.606-0.25-0.606-0.25
+	            c0.494-1.445,0.328-1.951,1.407-3.029l3.267-3.268c0,0,0.87,0.191,1.4,0.724c0.64,0.638,0.959,1.635,0.959,1.635L11.381,16.758z
+	             M18.843,9.623l-4.726,4.725c0,0-0.26-1.26-0.963-1.962c-0.638-0.64-1.726-0.729-1.726-0.729l4.722-4.721
+	            c0.743-0.742,1.946-0.742,2.689,0S19.585,8.882,18.843,9.623z" />
+	        </svg>
+	        <i>tell your story</i>
+	    </span>
+	    <span class="additem photo">    
+	        <svg xml:space="preserve" enable-background="new 0 0 96.594 96.49" viewBox="0 0 96.594 96.49" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="camera-icon" version="1.1">
+	            <path d="M33.058,60.556h1.353v-24.26h-1.353V60.556z M28.994,60.556H31.7
+	            v-24.26h-2.706V60.556z M66.895,36.296c-0.747,0-1.353,0.603-1.353,1.346c0,0.744,0.605,1.35,1.353,1.35s1.353-0.605,1.353-1.35
+	            C68.247,36.898,67.642,36.296,66.895,36.296z M48.298,0C21.623,0,0,21.6,0,48.245S21.623,96.49,48.298,96.49
+	            c26.674,0,48.296-21.6,48.296-48.245S74.972,0,48.298,0z M72.321,63.246c0,1.686-2.706,2.714-2.706,2.714H24.952
+	            c0,0-2.706-0.892-2.706-2.373c0-7.291,0-28.86,0-28.86s0.965-2.696,2.462-2.696c5.178,0,15.359,0,15.359,0l5.422-5.163h11.912
+	            l5.597,5.163c0,0,2.192,0,6.151,0c1.834,0,3.172,2.696,3.172,2.696S72.321,55.657,72.321,63.246z M51.328,36.296
+	            c-7.102,0-12.859,5.731-12.859,12.803c0,7.072,5.758,12.802,12.859,12.802c7.101,0,12.86-5.729,12.86-12.802
+	            C64.188,42.027,58.429,36.296,51.328,36.296z M51.328,59.206c-5.608,0-10.153-4.525-10.153-10.107
+	            c0-5.584,4.545-10.107,10.153-10.107c5.607,0,10.15,4.523,10.15,10.107C61.479,54.681,56.936,59.206,51.328,59.206z" />
+	        </svg>
+	        <i>send a photo</i>
+	    </span>
+	    <span class="additem video">
+	        <svg xml:space="preserve" enable-background="new 0 0 25.775 25.511" viewBox="0 0 25.775 25.511" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="video-icon" version="1.1">
+	            <path d="M12.887,0C5.77,0,0,5.711,0,12.755s5.77,12.756,12.887,12.756c7.118,0,12.889-5.712,12.889-12.756
+	        S20.005,0,12.887,0z M20.335,17.424H5.393V8.55h14.942V17.424z M11.745,10.514v4.807l3.735-2.404L11.745,10.514z" />
+	        </svg>
+	        <i>upload a video</i>
+	    </span> 	
+	    </a>   	    
+	    	    	<a class="more" href="/your-stories">Find out more about how you can contribute to the news in your area ...</a>
+    	
+	</aside>
+</div>				
+    
+               <div class="contentSectionLeft">
+            <div id="UGC_uploadImg">
+            <form id="ugcPanel" name="ugcPanel" action="/ajax?action=submitUgcData&submission_mode=generic&isMobile=false" method="post" enctype="multipart/form-data" target="ugcSubmitIframe">
+
+                <input type="hidden" name="submitted" value="true" id="fixForIEBugSlot">
+                <input type="hidden" name="siteContentId" value="2.15151">
+                <input type="hidden" name="pageContentId" value="2.15151">
+                <input type="hidden" name="workflowContentId" value="11.100">
+
+                                <div id="ugcUploadPanel" class="UGC_uploadImgBacking hidden">        
+                	<span class="UGC_close" title="close">&times;</span>           
+                                        	<h3>Tell your story</h3>
+                        <p class="UGC_userSml ugc_center cfo_D"></p>
+                                          
+                                        <p class="cbg_hint">So you've got a story that you'd like to share.. Upload text, images and videos in a few easy steps...</p>
+                                                <div id="ugcEditorPanel">
+                            <fieldset id="addCommentFrm">
+                                                                <input name="name" id="frm-name" type="text" class="ta" title="Story Headline" value="" placeholder="Give your story a headline or title"/>
+                                <span class="UGC_error"></span>
+                                                                <textarea name="body" id="frm-body" class="ta" cols="50" rows="10" title="Story details" placeholder="Tell us your story.  Remember to give us as many details as possible"></textarea>
+                                <span class="UGC_error"></span>
+                            </fieldset>
+                        </div>
+                                              
+	                <!-- file upload begin -->
+	                <fieldset>
+                                                <script id="UGC_media" type="text/x-handlebars-template">
+	                    <div id="UGC_bar{{mediaitem}}" class="UGC_bar">
+	                        <div class="UGC_uploadInfo">
+	                            <div class="thumbHolder">
+	                                <img id="thumb{{mediaitem}}" src="#" alt="Upload item {{mediaitem}} thumbnail">
+	                                <video controls autobuffer  style="width: 130px; height: 93px; display: none;"></video>
+	                            </div>
+	                            <span class="UGC_path{{mediaitem}} UGC_pathName"></span>
+	                            <textarea name="uploadItemDescriptions[{{mediaitem}}]" id="frm-mediaDescription{{mediaitem}}" class="ta" cols="40" rows="2" title="Upload Item {{nextmediaitem}} Description" placeholder="Tell us about your photo or video.  Who's in it? Where and when was it taken?"></textarea>
+                                <span class="UGC_remove ugcrem{{mediaitem}} ugcremStyle">remove photo/video</span>
+                                <span class="UGC_error"></span>
+                            </div>
+                            <div class="UGC_uploadRow">
+                                <p class="UGC_addImage{{mediaitem}} UGC_addAnotherBoth">
+                            	    <input id="frm-upload-image-{{mediaitem}}" class="frm-upload-image-{{mediaitem}} UGC_rem" name="uploadItemFiles[{{mediaitem}}]" title="Please choose a file" type="file">
+                                </p>
+                        	</div>
+                        </div>
+	                    </script>
+	                    <div id="mediaitems"></div>
+	                    <div class="ugcLoader">Loading ...</div>
+                        <h4 class="ugcRemaining">Add up to <span class="photoRemaining">3</span> photos or <span class="videoRemaining">1</span> videos to the story</h4>
+	                </fieldset>
+	                <!-- file upload end -->
+	                <div class="ugcError" class="errors">There's been a problem uploading your files. Please try again.</div>
+	                <fieldset class="cbg_hintBase">
+	                  	                        	                  	                    <span>By uploading your file you agree to our</span>
+	                         	                          	<span>                                                                  <a  class='ext-link'href="http://www.johnstonpress.co.uk/jpplc/termsofaccess" target='_blank'>Terms and Conditions</a>
+            </span>
+	                         	                    </span>
+                                                                                                            <button id="ugc_validate2" type="submit" value="true" class="secondaryBtn" disabled="disabled">Send your story</button>
+                                                    	                </fieldset>
+            </div><!-- ugcUploadPanel -->
+						
+            <div id="UGCLogin" class="hidden">
+                <div class="UGC_uploadImgBacking">
+                	<span class="UGC_close" title="close">&times;</span>
+                	                    	<h3>Tell your story</h3>
+                                                            <p class="cbg_hint"><span>Sign in to contribute</span></p>
+
+                    <a href="/login?referrer=http://www.newsletter.co.uk/" id="loginBtn" class="UGC_loginBtn">sign in</a>
+
+                    <div class="cbg_hintBase">
+                        <p class="cfo_D">shape the news in your area...</p>
+                    </div>
+                </div>
+            </div>
+
+        </form>
+        </div><!-- // end UGC_uploadImg -->
+    </div><!-- content section left div -->
+
+
+                
+        <div class="clearer"></div>           
+            
+    </div><!--editorialSection -->
+        
+    
+
+<div class="contentSectionLeft">           
+        <div id="UGCSuccessPanel" style="display:none;">
+            <div class="UGC_uploadImgBacking">
+            	<span class="UGC_close" title="close" >&times;</span>
+                <h3 class="message">A big thank you for contributing </h3>
+                                                    <p class="cbg_hint"></p>
+                                <p>We really appreciate you taking the time to send your content...if it complements our coverage we may use it online or in the paper.</p>
+                <div class="cbg_hintBase">
+                                                    <button type="submit" id="submitAnotherStory" value="true" class="secondaryBtn button">Submit another story</button>
+                                </div>
+            </div>
+        </div>
+</div>
+
+
+<iframe name='ugcSubmitIframe' style='display: none;' id='ugcSubmitIframe'></iframe>
+
+<script type="text/javascript">
+    $(document).bind('loginResponse',function() {
+    	var logoutUrl = '/logout?referrer=http://www.newsletter.co.uk/login?referrer=http://www.newsletter.co.uk/';
+     	var screenName = loginStatusResponse.loginStatus.screenname;
+     	
+     	$('.UGC_userSml').html('Hello ' + screenName + '<br /><a href="' + logoutUrl 
+     		+ '" class="cfo_L" title="not ' + screenName + ' ?">not ' + screenName + ' ?</a>');
+     	
+     	if (loginStatusResponse.loginStatus.loggedIn) {			
+			$('#ugcUploadPanel').removeClass("hidden");
+			$('#UGCLogin').addClass("hidden");
+		} else {
+			$('#ugcUploadPanel').addClass("hidden");
+			$('#UGCLogin').removeClass("hidden");
+		}
+		
+					if (loginStatusResponse.loginStatus.loggedIn) {			
+				$('.ugcGenericOpenLink').removeClass("ugc_notLoggedIn").addClass("genericIn");
+			} else {
+				$('.ugcGenericOpenLink').removeClass("genericIn").addClass("ugc_notLoggedIn");
+			}
+		     	
+	    $("#ugcPanel").UGC({
+	    	widgetType:"generic", 
+	    	maxPhoto: 3,
+	    	maxVideo: 1,
+	    	maxPhotoSize: 10485760,
+	    	maxVideoSize: 52428800
+	    });
+	});
+</script>																											
+	 <section class="bdr-l m10-b" role="content">
+
+	<a href="http://www.newsletter.co.uk/what-s-on">
+		<h2>What's On</h2>
+	</a>
+			<a href="/rss/cmlink/1.5002270" class="rss"><img src="/assets/images/iconsEtc/rss.gif" alt="rss" /></a>
+		<div class="section-title-bg cld"></div>
+										
+									
+		 <article role="article" class="lead-story  has-image no-video no-gallery">			<a href="http://www.newsletter.co.uk/life/book-reviews/book-review-distinctive-voice-given-to-ulster-by-a-native-son-1-6284852">
+								<img class="flt-l" src="/webimage/1.6284851.1410256447!/image/4259745538.jpg_gen/derivatives/sstLeadStoryDeriv_196px/4259745538.jpg" width="196" height="138" />
+							<h5>
+		         	BOOK REVIEW:‘Distinctive voice’ given to Ulster by a native son
+		        </h5>
+	        </a>
+						<a href="http://www.newsletter.co.uk/life/book-reviews/book-review-distinctive-voice-given-to-ulster-by-a-native-son-1-6284852" class="sst1223">
+				<span class="ellipsis_text"><!--PSTYLE=WINT Web Intro-->John Greer Ervine (usually St John Ervine) was born in the working class area of Ballymacarrett in east Belfast not far from the shipyard where the Titanic was built on December 28, 1883 to deaf-mute parents. Every member of his family had been born in Co Down for 300 years. </span>
+			</a>
+											</article>
+
+		<section class="g304 inside" role="list">
+																																
+																
+					 <article role="article" class="teaser  has-image no-video no-gallery" role="listitem"> 
+																		    				      	 <a href="http://www.newsletter.co.uk/life/book-reviews/book-review-revealing-the-truths-of-rush-to-the-great-war-1-6287298">
+        	<img width="130" height="98" alt="editorial image" src="/webimage/1.6287296.1410255785!/image/3694809603.jpg_gen/derivatives/sstStoryDeriv_130px/3694809603.jpg"  class="flt-l">        
+      	</a>
+    						<a class="m0-b" href="http://www.newsletter.co.uk/life/book-reviews/book-review-revealing-the-truths-of-rush-to-the-great-war-1-6287298">BOOK REVIEW: Revealing the truths of rush to the Great War</a>
+
+											</article>
+																																							
+																
+					 <article role="article" class="teaser  has-image no-video no-gallery" role="listitem"> 
+																		    				      	 <a href="http://www.newsletter.co.uk/life/travel/ulster-s-fairways-to-heaven-1-6282352">
+        	<img width="130" height="98" alt="The golf course at Galgorm" src="/webimage/1.6282351.1409924490!/image/3554578403.jpg_gen/derivatives/sstStoryDeriv_130px/3554578403.jpg"  class="flt-l">        
+      	</a>
+    						<a class="m0-b" href="http://www.newsletter.co.uk/life/travel/ulster-s-fairways-to-heaven-1-6282352">Ulster’s fairways to heaven</a>
+
+											</article>
+																																		
+																
+					 <article role="article" class="teaser  no-video no-gallery" role="listitem"> 
+																		    						<a class="m0-b" href="http://www.newsletter.co.uk/life/food-drink/why-there-s-121-reasons-to-be-enjoying-the-silence-1-6282706">Why there’s 121 reasons to be enjoying the silence</a>
+
+											</article>
+																																							
+																
+					 <article role="article" class="teaser  has-image no-video no-gallery" role="listitem"> 
+																		    				      	 <a href="http://www.newsletter.co.uk/life/food-drink/now-s-time-to-meet-up-with-the-spice-master-1-6282721">
+        	<img width="130" height="98" alt="MasterChef champion Dhruv Baker" src="/webimage/1.6282719.1409931365!/image/1183935737.jpg_gen/derivatives/sstStoryDeriv_130px/1183935737.jpg"  class="flt-l">        
+      	</a>
+    						<a class="m0-b" href="http://www.newsletter.co.uk/life/food-drink/now-s-time-to-meet-up-with-the-spice-master-1-6282721">Now’s time to meet up with the spice master</a>
+
+											</article>
+																																							
+																
+					 <article role="article" class="teaser  has-image no-video no-gallery" role="listitem"> 
+																		    				      	 <a href="http://www.newsletter.co.uk/what-s-on/music/leaving-tennessee-felt-like-leaving-home-1-6278398">
+        	<img width="130" height="98" alt="Ben Glover" src="/webimage/1.6278395.1409824484!/image/3106578727.jpg_gen/derivatives/sstStoryDeriv_130px/3106578727.jpg"  class="flt-l">        
+      	</a>
+    						<a class="m0-b" href="http://www.newsletter.co.uk/what-s-on/music/leaving-tennessee-felt-like-leaving-home-1-6278398">‘Leaving Tennessee felt like leaving home’</a>
+
+											</article>
+																			</section>
+
+		<div class="midcol">
+																		<section role="list" class="m30-b">
+							<a class="title-bg cld" href="http://www.newsletter.co.uk/what-s-on/arts-entertainment">
+								<h5 class="flt-l">Arts & Entertainment</h5>
+							</a>
+							<ul class="fnt-12">
+																																																					<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/what-s-on/arts-entertainment/waking-dream-on-pains-of-alienated-consciousness-1-6278338">Waking dream on pains of alienated consciousness</a>
+										</li>
+																																																																<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/what-s-on/arts-entertainment/celebrating-seamus-heaney-on-home-ground-in-l-derry-1-6278216">Celebrating Seamus Heaney
+On Home Ground in L’Derry</a>
+										</li>
+																																																																<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/what-s-on/arts-entertainment/belfast-fashionweek-launches-in-typical-style-1-6265189">Belfast FASHIONWEEK launches in typical style</a>
+										</li>
+																																																																																																																																											</ul>
+						</section>
+																				<section role="list" class="m30-b">
+							<a class="title-bg cld" href="http://www.newsletter.co.uk/what-s-on/music">
+								<h5 class="flt-l">Music</h5>
+							</a>
+							<ul class="fnt-12">
+																																																					<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/what-s-on/music/we-want-to-show-everyone-ulster-is-a-place-of-cool-music-1-6278199">‘We want to show everyone Ulster is a place of cool music’</a>
+										</li>
+																																																																<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/what-s-on/music/rockers-therapy-due-ni-legend-award-1-6265175">Rockers Therapy? due NI Legend Award</a>
+										</li>
+																																																																<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/what-s-on/music/killers-pay-tribute-to-stroke-city-s-finest-at-vital-1-6256220">Killers pay tribute to Stroke City’s finest at Vital</a>
+										</li>
+																																																																																																																																											</ul>
+						</section>
+																				<section role="list" class="m30-b">
+							<a class="title-bg cld" href="http://www.newsletter.co.uk/what-s-on/cinema">
+								<h5 class="flt-l">Cinema</h5>
+							</a>
+							<ul class="fnt-12">
+																																																					<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/what-s-on/cinema/feel-good-sports-drama-scores-a-home-run-when-it-really-counts-1-6265129">Feel-good sports drama scores a home run when it really counts</a>
+										</li>
+																																																																<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/what-s-on/cinema/neo-noir-sequel-based-on-comic-series-revels-in-gratuitous-violence-1-6265121">Neo-noir sequel based on comic
+series revels in gratuitous violence</a>
+										</li>
+																																																																<li class="txt-t">
+											<a class=" " href="http://www.newsletter.co.uk/what-s-on/cinema/johansson-attention-grabbing-as-assassin-with-uber-brain-power-1-6254387">Johansson attention-grabbing as assassin with uber brain power</a>
+										</li>
+																																		</ul>
+						</section>
+														</div>
+		<div class="clear">&nbsp;</div>
+	</section>
+<script type="text/javascript">					
+	$(document).ready(function (){
+		$('.sst1223').ThreeDots({max_rows:3});
+	});
+</script>						     								</section>
+											</div>
+			
+			<div class="g324 flt-r m20-r clear-r">
+								
+								<aside>
+					            				
+                  
+    
+      
+        
+
+						
+	<aside id="findTabs" class="classifiedWidgetui-tabs fnt-11 m20-b find ">
+		<ul class="tabs cld pos-a tabWith4items" aria-labelledby="Classified Widget tabs" role="tablist">
+							<li role="presentation"><a href="#findTabs-1" class="jobs" title="" aria-controls="Jobs" role="tab">Jobs</a></li>
+										<li role="presentation"><a href="#findTabs-2" class="directory" title="" aria-controls="Directory" role="tab">Directory</a></li>
+								
+							<li role="presentation"><a href="#findTabs-3" class="property" title="" aria-controls="Property" role="tab">Property</a></li>
+										<li class="last" role="presentation"><a href="#findTabs-4" class="motors" title="" aria-controls="Motors" role="tab">Motors</a></li>
+					
+		</ul>
+		
+				
+					<div id="findTabs-1" class="jobs-bg" role="tabpanel" aria-labelledby="Search for a job">
+				<div class="logo">
+					<img src="http://www.newsletter.co.uk/assets/images/logos/jobs-today.png" height="25" alt="JobsToday logo" />
+				</div>
+				
+				<h4>Search for a job</h4>				   
+				<fieldset class="customFiledset fnt-12">
+					<ul class="formFields">
+						<li>
+							<label class="dis-b">Keywords</label>
+							<input type="text" value="" placeholder="e.g. job description" class="txt" name="jobKeywords" id="jobKeywords" />
+						</li>
+						<li>				
+							<label class="dis-b">Location</label>
+							<input type="text" value="Belfast,Antrim" class="txt" name="jobLocation" id="jobLocation">
+						</li>
+											</ul>	
+					<div class="w260">
+												<input type="submit" class="submit gradient" value="Search">
+					</div>
+				</fieldset>
+			</div>
+						
+				
+							     			<div id="findTabs-2" class="directory-bg ui-tabs-hide" role="tabpanel" aria-labelledby="Search the directory">
+				<div class="logo">
+					<img src="http://www.newsletter.co.uk/assets/images/logos/directory.png" height="25" alt="Directory logo" />
+				</div>
+				<h4>Search the directory</h4>
+				<form>
+					<fieldset class="customFiledset fnt-12">
+						<ul class="formFields">
+							<li>
+				 				<label for="directoryKeywords">
+				 					Search For: <span class="labelComment">(Plumber, Taxi, McDonalds...)</span>
+								</label>
+								<input type="text" value="" class="txt" name="searchTerm" id="directoryKeywords">
+							</li>
+							<li>		
+								<label for="directoryWhere" class="dis-b">
+									Where? <span class="labelComment">(Town, Country ...)</span>
+								</label>
+								<input type="text" value="Belfast" class="txt" name="searchLocation" id="directoryWhere">
+							</li>
+						</ul>		
+						<div class="flt-l w260">
+							<p class="flt-l m5-t">
+								Powered by 
+															<a href="http://www.scoot.co.uk" target="_blank" title="www.scoot.co.uk" rel="nofollow">
+									<img src="/assets/images/img/scoot.png" alt="www.scoot.co.uk" />
+							</a>							
+							
+							</p>
+							<input type="submit" class="submit gradient" id="findItSearchButton" value="Search">
+						</div>
+					</fieldset>
+				</form>
+			</div>		
+			<script type="text/javascript">
+				$('#findTabs-2 #findItSearchButton').bind('click',function(event){
+					event.preventDefault();
+			        event.stopPropagation();
+					performFindItSearch();
+				});	
+				
+				$('#findTabs-2 input[type=text]').enterPressed(function(event) {
+					event.preventDefault();
+			        event.stopPropagation();
+					performFindItSearch();
+				});
+			
+				function performFindItSearch(){
+					var where = $('#findTabs-2 #directoryWhere').val();
+					var what = $('#findTabs-2 #directoryKeywords').val();
+					where = where.replace(/\s+/g, '-').toLowerCase();
+					what = what.replace(/\s+/g, '-').toLowerCase();
+					var searchBaseURL = 'http://www.newsletter.co.uk' + '/findit/search';
+					var altURL;
+										if(altURL && altURL.length > 0){
+						searchBaseURL = altURL;
+					}
+					window.open(searchBaseURL + '/' + escape(where) + '/'+escape(what), '_blank');
+				};	
+			</script>	
+			 				
+		
+							<div id="findTabs-3" class="property-bg ui-tabs-hide" role="tabpanel" aria-labelledby="Search for a house">
+				<div class="logo">
+					<img src="http://www.newsletter.co.uk/assets/images/logos/property.png" height="25" alt="Property logo" />
+				</div>
+				<h4>Search for a house</h4>
+				<fieldset class="customFiledset fnt-12">
+					<ul class="formFields">
+					
+						<li class="col first radio-buttons">
+							<label for="buyRentBuy">Buy</label>
+	 						<input id="buyRentBuy" type="radio" value="0" checked="checked" name="buyRent" class="m5-l">
+						</li>
+						
+						<li class="col radio-buttons">
+							<label for="buyRentRent">Rent</label>
+							<input id="buyRentRent" type="radio" value="1" name="buyRent" class="m5-l">
+						</li>
+						
+						<li>
+							<label for="bedrooms">
+								Min. Bedrooms
+							</label>
+							<select id="bedrooms" class="txt plain-dropdown ">
+									<option selected="selected" value="1">1</option>
+									<option value="2">2</option>
+									<option value="3">3</option>
+									<option value="4">4</option>
+									<option value="5">5+</option>
+							</select>
+						</li>
+						
+						<li class="col first">
+							<label for="priceFrom">Min. Price</label>
+							<select id="priceFromBuy" class="txt plain-dropdown">
+									<option value="10000">&pound;10,000</option>
+	    							<option value="20000">&pound;20,000</option>
+	                                <option value="30000">&pound;30,000</option>
+	                                <option value="40000">&pound;40,000</option>
+	                                <option selected="selected" value="50000">&pound;50,000</option>
+								    <option value="60000">&pound;60,000</option>
+								    <option value="70000">&pound;70,000</option>
+								    <option value="80000">&pound;80,000</option>
+								    <option value="90000">&pound;90,000</option>
+								    <option value="100000">&pound;100,000</option>
+								    <option value="125000">&pound;125,000</option>
+								    <option value="150000">&pound;150,000</option>
+								    <option value="175000">&pound;175,000</option>
+								    <option value="200000">&pound;200,000</option>
+								    <option value="225000">&pound;225,000</option>
+								    <option value="250000">&pound;250,000</option>
+								    <option value="275000">&pound;275,000</option>
+								    <option value="300000">&pound;300,000</option>
+								    <option value="325000">&pound;325,000</option>
+								    <option value="350000">&pound;350,000</option>
+								    <option value="375000">&pound;375,000</option>
+								    <option value="400000">&pound;400,000</option>
+								    <option value="425000">&pound;425,000</option>
+								    <option value="450000">&pound;450,000</option>
+								    <option value="475000">&pound;475,000</option>
+								    <option value="500000">&pound;500,000</option>
+								    <option value="550000">&pound;550,000</option>
+								    <option value="600000">&pound;600,000</option>
+								    <option value="650000">&pound;650,000</option>
+								    <option value="700000">&pound;700,000</option>
+								    <option value="800000">&pound;800,000</option>
+								    <option value="900000">&pound;900,000</option>
+								    <option value="1000000">&pound;1,000,000</option>
+								    <option value="1250000">&pound;1,250,000</option>
+								    <option value="1500000">&pound;1,500,000</option>
+								    <option value="2000000">&pound;2,000,000</option>
+								    <option value="2500000">&pound;2,500,000</option>
+								    <option value="3000000">&pound;3,000,000</option>
+								    <option value="4000000">&pound;4,000,000</option>
+								    <option value="5000000">&pound;5,000,000</option>
+							</select>
+							
+							<select id="priceFromRent" class="txt plain-dropdown">
+	                                <option value="200" selected="selected">&pound;200</option>
+	                                <option value="300">&pound;300</option>
+	                                <option value="400">&pound;400</option>
+	                                <option value="500">&pound;500</option>
+	                                <option value="600">&pound;600</option>
+	                                <option value="700">&pound;700</option>
+	                                <option value="800">&pound;800</option>
+	                                <option value="900">&pound;900</option>
+	                                <option value="1000">&pound;1,000</option>
+	                                <option value="1250">&pound;1,250</option>
+	                                <option value="1500">&pound;1,500</option>
+	                                <option value="1750">&pound;1,750</option>
+	                                <option value="2000">&pound;2,000</option>
+	                                <option value="2250">&pound;2,250</option>
+	                                <option value="2500">&pound;2,500</option>
+	                                <option value="2750">&pound;2,750</option>
+	                                <option value="3000">&pound;3,000</option>
+	                                <option value="3500">&pound;3,500</option>
+	                                <option value="4000">&pound;4,000</option>
+	                                <option value="4500">&pound;4,500</option>
+	                                <option value="5000">&pound;5,000</option>
+	                                <option value="6000">&pound;6,000</option>
+	                                <option value="7000">&pound;7,000</option>
+	                                <option value="8000">&pound;8,000</option>
+	                                <option value="9000">&pound;9,000</option>
+	                                <option value="10000">&pound;10,000</option>
+							</select>
+						</li>
+						
+						<li class="col">
+							<label for="priceTo">Max. Price</label>
+							<select id="priceToBuy" class="txt plain-dropdown">
+									<option value="10000">&pound;10,000</option>
+	    							<option value="20000">&pound;20,000</option>
+	                           		<option value="30000">&pound;30,000</option>
+	                                <option value="40000">&pound;40,000</option>
+	                                <option value="50000">&pound;50,000</option>
+								    <option value="60000">&pound;60,000</option>
+								    <option value="70000">&pound;70,000</option>
+								    <option value="80000">&pound;80,000</option>
+								    <option value="90000">&pound;90,000</option>
+								    <option value="100000">&pound;100,000</option>
+								    <option value="125000">&pound;125,000</option>
+								    <option selected="selected" value="150000">&pound;150,000</option>
+								    <option value="175000">&pound;175,000</option>
+								    <option value="200000">&pound;200,000</option>
+								    <option value="225000">&pound;225,000</option>
+								    <option value="250000">&pound;250,000</option>
+								    <option value="275000">&pound;275,000</option>
+								    <option value="300000">&pound;300,000</option>
+								    <option value="325000">&pound;325,000</option>
+								    <option value="350000">&pound;350,000</option>
+								    <option value="375000">&pound;375,000</option>
+								    <option value="400000">&pound;400,000</option>
+								    <option value="425000">&pound;425,000</option>
+								    <option value="450000">&pound;450,000</option>
+								    <option value="475000">&pound;475,000</option>
+								    <option value="500000">&pound;500,000</option>
+								    <option value="550000">&pound;550,000</option>
+								    <option value="600000">&pound;600,000</option>
+								    <option value="650000">&pound;650,000</option>
+								    <option value="700000">&pound;700,000</option>
+								    <option value="800000">&pound;800,000</option>
+								    <option value="900000">&pound;900,000</option>
+								    <option value="1000000">&pound;1,000,000</option>
+								    <option value="1250000">&pound;1,250,000</option>
+								    <option value="1500000">&pound;1,500,000</option>
+								    <option value="2000000">&pound;2,000,000</option>
+								    <option value="2500000">&pound;2,500,000</option>
+								    <option value="3000000">&pound;3,000,000</option>
+								    <option value="4000000">&pound;4,000,000</option>
+								    <option value="5000000">&pound;5,000,000</option>
+	                        </select>
+								<select id="priceToRent" class="txt plain-dropdown">
+		                            <option value="200">&pound;200</option>
+		                                <option value="300">&pound;300</option>
+		                                <option value="400">&pound;400</option>
+		                                <option value="500">&pound;500</option>
+		                                <option value="600">&pound;600</option>
+		                                <option value="700">&pound;700</option>
+		                                <option value="800">&pound;800</option>
+		                                <option value="900">&pound;900</option>
+		                                <option value="1000" selected="selected">&pound;1,000</option>
+		                                <option value="1250">&pound;1,250</option>
+		                                <option value="1500">&pound;1,500</option>
+		                                <option value="1750">&pound;1,750</option>
+		                                <option value="2000">&pound;2,000</option>
+		                                <option value="2250">&pound;2,250</option>
+		                                <option value="2500">&pound;2,500</option>
+		                                <option value="2750">&pound;2,750</option>
+		                                <option value="3000">&pound;3,000</option>
+		                                <option value="3500">&pound;3,500</option>
+		                                <option value="4000">&pound;4,000</option>
+		                                <option value="4500">&pound;4,500</option>
+		                                <option value="5000">&pound;5,000</option>
+		                                <option value="6000">&pound;6,000</option>
+		                                <option value="7000">&pound;7,000</option>
+		                                <option value="8000">&pound;8,000</option>
+		                                <option value="9000">&pound;9,000</option>
+		                                <option value="10000">&pound;10,000 +</option>
+		                        </select>
+							</li>
+						</ul>
+						
+						<div class="w260">
+							<p class="flt-l m5-t">
+								Powered by 
+														<a href="http://www.zoopla.co.uk/" target="_blank" title="www.zoopla.co.uk" rel="nofollow">
+									<img src="/assets/images/prop_ZooplaLogo.png" alt="www.zoopla.co.uk">
+							</a>							
+							</p>
+							<input type="submit" class="submit gradient" value="Search" />
+						</div>						
+					</fieldset>
+				</div>		
+				
+							<div id="findTabs-4" class="motors-bg ui-tabs-hide" role="tabpanel" aria-labelledby="Search for a car">
+				<div class="logo">
+					<img src="http://www.newsletter.co.uk/assets/images/logos/motors-today.png" height="25" alt="MotorsToday logo" />
+				</div>
+				<h4>Search for a car</h4>
+				<form id="carSearchFrm">
+					<fieldset id="makeModelAutocomplete" class="customFiledset fnt-12">
+						<ul class="formFields">
+							<li>
+		 					<label for="motorsPostCode" class="m5-b dis-b">
+		 						Postcode: <span class="labelComment">(e.g. DE12BH)</span> <span class="postcodeErrorMsg">*</span>						
+							</label>
+							
+							<span class="postcodeErrorMsg">Please type the postcode as the example above</span>
+							
+							<input type="text" value="" class="txt dis-b m5-t" name="motorsPostCode" id="motorsPostCode">
+						</li>
+					
+						<li class="col first">
+							<label for="smallSearchMake" class="m5-b dis-b">
+								Make:
+							</label>
+            				<span id="makesList" style="display:none;">
+                                                            </span>
+							<input type="text" value="" class="txt-half dis-b m5-t" name="smallSearchMake" id="smallSearchMake">
+						</li>
+						
+						<li class="col">
+							<label for="smallSearchModel" class="m5-b dis-b">Model:</label>
+							<input type="text" value="" class="txt-half dis-b m5-t" name="smallSearchModel" id="smallSearchModel">
+						</li>
+					</ul>
+					
+					<div class="w260">
+						<p class="flt-l m5-t">
+							Powered by
+							
+														<a href="http://www.motors.co.uk/" target="_blank" title="www.motors.co.uk" rel="nofollow">
+								<img src="/assets/images/motors-logo-small.png" alt="www.motors.co.uk" />
+							</a>						
+						</p>
+						<input type="submit" class="submit gradient" value="Search">
+					</div>
+						
+						
+					</fieldset>
+				</form>
+			</div>
+				
+</aside>
+
+          
+<script type="text/javascript">
+		
+		
+	$(function() { 	
+	
+		ClassifiedWidget.init("http://www.jobstoday.co.uk","Belfast","true");
+		ClassifiedWidget.showPropertyPriceRange();
+		ClassifiedWidget.placeholderForIE();
+		
+		var widgetRotateTimeout = "10";
+		if(!jQuery.isNumeric(widgetRotateTimeout)){
+			widgetRotateTimeout=10; //set to default 10sec
+		}
+		
+		$("#findTabs").tabs().tabs("rotate", widgetRotateTimeout*1000);
+
+        $("#findTabs input, #findTabs select").bind("focus click",function(){
+        	 $('#findTabs').tabs('rotate', 0, false);
+        });
+	 			
+	});		
+
+</script>
+				
+      
+  
+           								</aside>
+								
+									            				
+                  
+    
+      
+        			<div class="m20-b"><a class="twitter-timeline"  href="https://twitter.com/news_letter" data-widget-id="280685815246491649">Tweets by @news_letter</a></div>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			
+      
+  
+           												
+				<div class="cld m20-b">
+						<div class="dc-wide-sky flt-l m20-b">
+								            				
+                  
+    
+      
+        
+
+<div id="adTag_4" class="adTag">
+	<script type="text/javascript">
+	var ord = window.ord || Math.floor(Math.random() * 1e16);
+	document.write('<script src="http://ad.uk.doubleclick.net/N3948/adj/belfast.jp/home;pgid=215151;tile=4;sz=120x600,160x600;;' + (typeof(dartCC) != "undefined" ? dartCC : "") + ';gs_cat='+gs_topics+';;weathertoday=sunny;weathertomorrow=sunnyspells;ord=' + ord + '? " type="text/javascript"></scr'+'ipt>');
+	</script>
+	<noscript>
+	  <a href="http://ad.uk.doubleclick.net/jump/belfast.jp/home;pgid=215151;tile=3;sz=120x600,160x600;;gs_cat=GS_TOPIC;weathertoday=sunny;weathertomorrow=sunnyspells;ord=[timestamp]?" target="_blank">
+    	<img src="http://ad.uk.doubleclick.net/ad/belfast.jp/home;pgid=215151;tile=3;sz=120x600,160x600;;gs_cat=GS_TOPIC;weathertoday=sunny;weathertomorrow=sunnyspells;ord=[timestamp]?" alt="Dynamic Dart Advertisement" />
+	  </a>
+	</noscript>
+</div>
+
+
+      
+  
+      	     					     					</div>
+					
+																									
+					<aside class="smartAdV m20-b" aria-atomic="true" aria-busy="true" aria-live="polite">
+						            				
+                  
+    
+      
+        	
+      
+  
+           										</aside>
+										
+					 										   	
+                  
+    
+      
+        	
+
+      
+  
+      															
+					
+				</div>
+				
+			</div>
+			
+				<div class="clear">&nbsp;</div>
+	<div class="g972">
+				<aside class="enterpriseAd" aria-atomic="true" aria-busy="true" aria-live="polite">
+			          		
+                  
+    
+      
+        <h2>Belfast Newsletter Recommends</h2>
+<div class="section-title-bg cld"></div>
+	<div id="height_test" class="enterprise-ads m20-b">
+        <script type="text/javascript">
+        	if(typeof(OX_50f7db7d97b3b) !== "undefined"){
+            	OX_50f7db7d97b3b.showAdUnit("338307");
+            }
+        </script>		
+    </div>
+    <noscript>
+        <iframe id="50f7db7d97b3b" name="50f7db7d97b3b" src="http://ox-d.johnstonpress.co.uk/w/1.0/afr?auid=338307&cb=412239242" frameborder="0" scrolling="no" width="952" height="86">
+            <a href="http://ox-d.johnstonpress.co.uk/w/1.0/rc?cs=50f7db7d97b3b&cb=412239242" >
+                <img src="http://ox-d.johnstonpress.co.uk/w/1.0/ai?auid=338307&cs=50f7db7d97b3b&cb=412239242" border="0" alt="">
+            </a>
+        </iframe>
+    </noscript>
+<script type="text/javascript">
+	$(function() { 	
+		if($(".enterpriseAd #height_test > div").size() == 0){
+			$(".enterpriseAd").remove();
+		}	 			
+	});
+</script>
+      
+  
+         					</aside>
+				
+				<div class="m20-b GoogleAdSencePanel" aria-live="polite" aria-busy="true" aria-atomic="true">
+			          		
+                  
+    
+      
+        	<script src="/assets/script/adsGooglePP3.js?v=147" type="text/javascript" ></script>
+    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
+
+      
+  
+         					</div>
+			</div>		
+			
+			<div class="clear">&nbsp;</div>
+			<p class="back-to-top noPrintable"><a href="#">Back to the top of the page</a></p>
+			<div class="clear">&nbsp;</div>
+		</div>
+
+	</div>
+	<div id="popupOverlay"></div>
+
+		
+	
+			            		
+                  
+    
+      
+        
+
+  			    
+	<footer class="footer">
+				<div class="KonaBody"></div>
+		<div class="top">
+							<a href="http://www.newsletter.co.uk/" title="" class="logo">
+			     	
+       
+ <img src="/webimage/7.41587.1366089148!/image/1977256700.png_gen/derivatives/default/1977256700.png" alt="" />
+     
+     			    </a>
+						
+                  
+    
+      
+        
+		<form id="searchPanel" class="site-search" role="search" name="site-search" action="http://www.newsletter.co.uk//7.41597" method="get">
+
+            <fieldset class="cld">
+			<input type="hidden" name="submitted" value="true" id="fixForIEBugSlot" />
+            <input type="hidden" name="action" value="search" />
+            <input type="hidden" name="slotSearch" value="true" />
+            <input type="hidden" name="siteId" value="2.15151" />
+            <input id="searchInNav" class="flt-l txt frm-search-term" type="text" name="freeTextQuery" value="Search" placeholder="Search" />
+            <input class="flt-l submit gradient" type="submit"  value=""/>
+            </fieldset>
+        </form>
+        
+        <script type="text/javascript">		
+			$(document).ready(function (){
+				$("input.frm-search-term").each(function() {
+					$(this).val(getQuerystring('freeTextQuery',''));
+				});
+			});
+		</script>
+	
+<script type="text/javascript">
+
+	$(document).ready(function (){
+		searchElem("freeTextQuery");
+	});
+</script>
+      
+  
+      		</div>
+			
+		<div class="mid clearfix">
+			
+			<div class="dividers">
+				<aside class="col-1">
+					<ul class="l1" role="menubar">
+					 								        							<li role="menuitem"><a href="http://www.newsletter.co.uk/news" title="">News</a></li>	
+		 											        							<li role="menuitem"><a href="http://www.newsletter.co.uk/sport" title="">Sport</a></li>	
+		 											        							<li role="menuitem"><a href="http://www.newsletter.co.uk/what-s-on" title="">What's On</a></li>	
+		 																							<li role="menuitem">							
+							  								  		<a class="show-weather-popup" href="#" title="">Weather</a>
+								   							    </li>
+													<li role="menuitem">							
+							  									   	
+
+	 			  
+
+		<a  href="http://www.newsletter.co.uk/advertise-with-us"   >Place your Ad</a>
+														    </li>
+													<li role="menuitem">							
+							  									   	
+
+  	    	     
+
+		<a  href="http://www.localsubsplus.co.uk/NSL"   >Subscribe</a>
+														    </li>
+											</ul>
+									
+					<ul class="l2" role="menu">
+													<li role="menuitem">
+								
+
+	 			  
+
+		<a  href="http://www.newsletter.co.uk/special-features"   >Special Features</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	     
+
+		<a  href="http://www.dealmonster.co.uk"   >Deals</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	      	      	      	   	     
+
+		<a  class='ext-link' href="http://www.dealmonster.co.uk/shop"  target='_blank'  >Shop</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	      	      	      	   	     
+
+		<a  class='ext-link' href="http://www.belfastnewsletter.holidaytoday.co.uk"  target='_blank'  >Holidays</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	      	      	      	   	     
+
+		<a  class='ext-link' href="http://www.newsletter.co.uk/dating"  target='_blank'  >Dating</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	     
+
+		<a  href="http://www.newsletter.co.uk/bingo"   >Bingo</a>
+							</li>
+													<li role="menuitem">
+								
+
+  	    	      	      	      	   	     
+
+		<a  class='ext-link' href="http://mortonsnewspapers.newsprints.co.uk/banr/BELF"  target='_blank'  >Buy A Photo</a>
+							</li>
+											</ul>
+				</aside>
+					
+									<aside class="col-2">
+						
+                  
+    
+      
+        
+        
+                        			<a href="http://www.subscriptionline.co.uk/NSL" title="" target="_blank" class="footer-widget" title="">
+				<img class="image" src="/webimage/7.157867.1376652412!/NewsLetterTablet.png" alt=""/>		
+				<h2>Try the News Letter app for 30 days free!</h2>
+				<p>View the latest news and sport or download full editions of the newspaper to read offline.</p>
+				<p>Search for News Letter in your Android or iOS app store today. Newspaper subscribers get free unlimited access to the app.</p>
+			</a>
+			
+      
+      
+      
+  
+      	                   </aside>
+								
+				<aside class="col-3">
+											
+                  
+    
+      
+        
+        
+                        
+			
+			<a href="http://m.newsletter.co.uk" target="_blank" class="footer-widget">
+				<h2>Local news on the move</h2> 
+				<p>Keep up to date with all the latest local news on your iPhone or Android phone with our mobile site. Visit this website on your mobile to start enjoying it on the move.</p>
+				<img src="/webimage/7.157868.1376379595!/Footer-Mobile-Default.png" alt="" /> 
+			</a>
+			
+      
+      
+      
+  
+      																	
+                                
+                                       								
+							<form id="subscribeNLWidgetLoggedIn" class="hidden" name="subscribeToNewsSportNewsletterFormLI" method="put" action="/profile#newsletterDetails">
+								<input type="hidden" name="referrer" value="http://www.newsletter.co.uk/" class="hide" />
+								<fieldset>
+									<p>Newsletter sign up</p>
+									<input type="submit" value="Sign up" class="submit" />									
+								</fieldset>
+							</form>							
+							<form id="subscribeNLWidgetLoggedOut" class="hidden" name="subscribeToNewsSportNewsletterForm" method="put" action="/register">
+								<input type="hidden" name="referrer" value="http://www.newsletter.co.uk/" class="hide" />
+								<fieldset>
+									<p>Newsletter sign up</p>
+									<input type="text" id="emailNewsletter" name="email" class="txt" placeholder="Your email" />
+									<input type="submit" value="Sign up" class="submit" />
+								</fieldset>
+							</form>
+													 
+      			</aside>	
+					
+					<aside class="col-4">
+													<h2>
+								<a href="/2.15247" title="">Contact us</a>
+							</h2>							
+                                   
+																					<p>If you wish, you can contact us using any of the methods below.</p>
+																						<p>Ground floor, Metro Building</p>
+																						<p>6-9 Donegall Sq South</p>
+																						<p>Belfast</p>
+																						<p>Northern Ireland</p>
+																						<p></p>
+																						<p>BT1 5JA</p>
+																
+															<p>Email: <a href="mailto:newsdesk@newsletter.co.uk" title="">newsdesk@newsletter.co.uk</a></p>
+																						<p>Telephone: 028 9089 7700</p>
+																								</aside>
+				</div>
+				
+				<div class="dividers-2">
+					<nav class="footer-nav fnt-uppercase" role="navigation" aria-label="Footer navigation">
+						<ul class="flt-l" role="menubar">
+													    						      							      		<li role="menuitem">	
+						      								        	
+
+	 			  
+
+		<a  href="http://www.newsletter.co.uk/frequently-asked-questions-1-5002087"   >FAQs</a>
+						 		    </li>
+													      							      		<li role="menuitem">	
+						      								        	
+
+  	    	     
+
+		<a  href="http://www.johnstonpress.co.uk/jpplc/termsofaccess"   >Terms and Conditions</a>
+						 		    </li>
+													      							      		<li role="menuitem">	
+						      								        	
+
+  	    	     
+
+		<a  href="http://www.johnstonpress.co.uk/disclaimer"   >Disclaimer</a>
+						 		    </li>
+													      							      		<li class="last" role="menuitem">
+		      												        	
+
+  	    	     
+
+		<a  href="http://www.johnstonpress.co.uk/cookies-policy"   >Cookies Policy</a>
+						 		    </li>
+													</ul>
+						<ul class="flt-r" role="menubar">
+																															<li class="last" role="menuitem">
+		      													 		
+
+  	    	     
+
+		<a  href="http://m.newsletter.co.uk"   >Switch to Mobile Site</a>
+							    	</li>
+													</ul>
+					</nav>
+					<aside class="col-3 fnt-10" role="contentinfo">
+												<p>
+							All rights reserved <br /> &copy <span id="copyDate">2014</span> Johnston Publishing Ltd.
+						</p>
+					</aside>
+							
+				</div>
+				
+				<div class="btm" role="contentinfo">
+									<aside class="col-1">
+    					<img src="/assets/images/publicationLogos/press-complaints.png" alt="Press Complaints Commission" />
+					</aside>
+					<aside class="col-2">
+											 		
+				<p>
+			This website and its associated newspaper adheres to the Independent Press Standards Organisation's Editors' Code of Practice. 
+			If you have a complaint about editorial content which relates to inaccuracy or intrusion, then contact the 
+			Editor by <a href="/contact-us">clicking here</a>.
+				</p>
+				<p>
+			If you remain dissatisfied with the response provided then you can contact the IPSO by 
+					<a href="http://www.ipso.co.uk/">clicking here</a>.
+				</p>
+			
+					 							<p>Belfast Newsletter provides news, events and sport features from the Belfast area. For the best up to date information relating to Belfast and the surrounding areas visit us at Belfast Newsletter regularly or bookmark this page.</p>
+					</aside>
+				</div>
+				
+		</div>
+		
+	</footer>	
+	
+
+
+<div class="euCookiesQuestion" id="euCookiesQuestion" name="euCookiesQuestion" style="display:none">
+		        <div class="cookieOptIn">
+            <div class="background">
+                <div class="container">
+                    <div class="message">
+                        For you to enjoy all the features of this website Belfast Newsletter requires permission to use cookies.
+                    </div>
+                    <div class="allowButton">
+						<button  class='euAcceptsCookies' id="euCookiesAcceptCookies">Allow Cookies</button> 
+                    </div>
+                    <div class="showMore">
+                        <div class="toggle">
+                            Find Out More <span>&#x25BC;</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div class="moreContainer">
+            <div class="moreInfo">
+                <ul class="headers">
+                    
+                                        <li data="C1">
+                        <h3>What is a Cookie?</h3>
+                    </li>
+                    <li data="C2">
+                        <h3>What is a Flash Cookie?</h3>
+                    </li>
+                    <li data="C3">
+                        <h3>Can I opt out of receiving Cookies?</h3>
+                    </li>
+                    <li data="C4">
+                        <h3>About our Cookies</h3>
+                    </li>
+              </ul>
+                <ul class="cookieContent">
+                    <li rel="C1" class="content">
+                        <p>Cookies are small data files which are sent to your browser (Internet Explorer, Firefox, Chrome etc) from a website you visit. They are stored on your electronic device.</p>
+                    </li>
+                    <li rel="C2" class="content">
+                        <p>This is a type of cookie which is collected by Adobe Flash media player (it is also called a Local Shared Object) - a piece of software you may already have on your electronic device to help you watch online videos and listen to podcasts.</p>
+                    </li>
+                    <li rel="C3" class="content">
+                        <p>Yes there are a number of options available, you can set your browser either to reject all cookies, to allow only "trusted" sites to set them, or to only accept them from the site you are currently on.</p>
+                        <p>However, please note - if you block/delete all cookies, some features of our websites, such as remembering your login details, or the site branding for your local newspaper may not function as a result.</p>
+                    </li>
+                    <li rel="C4" class="content">
+                        <p>The types of cookies we, our ad network and technology partners use are listed below:</p>
+                        <ul class="cookieList">
+                            <li>
+                                <h4>Revenue Science <span>&#x25BA;</span></h4>
+                                <p>A tool used by some of our advertisers to target adverts to you based on pages you have visited in the past. To opt out of this type of targeting you can visit the 'Your Online Choices' website by <a href="http://www.youronlinechoices.com/uk/opt-out-help" target="_blank">clicking here.</a></p>
+                            </li>
+                            <li>
+                                <h4>Google Ads <span>&#x25BA;</span></h4>
+                                <p>Our sites contain advertising from Google; these use cookies to ensure you get adverts relevant to you. You can tailor the type of ads you receive by <a href="http://www.google.com/ads/preferences/" target="_blank">visiting here</a> or to opt out of this type of targeting you can visit the 'Your Online Choices' website by <a href="http://www.youronlinechoices.com/uk/opt-out-help" target="_blank">clicking here.</a></p>
+                            </li>
+                            <li>
+                                <h4>Webtrends / Google Analytics <span>&#x25BA;</span></h4>
+                                <p>This is used to help us identify unique visitors to our websites. This data is anonymous and we cannot use this to uniquely identify individuals and their usage of the sites.</p>
+                            </li>
+                            <li>
+                                <h4>Dart for Publishers <span>&#x25BA;</span></h4>
+                                <p>This comes from our ad serving technology and is used to track how many times you have seen a particular ad on our sites, so that you don't just see one advert but an even spread. This information is not used by us for any other type of audience recording or monitoring.</p>
+                            </li>
+                            <li>
+                                <h4>ComScore <span>&#x25BA;</span></h4>
+                                <p>ComScore monitor and externally verify our site traffic data for use within the advertising industry. Any data collected is anonymous statistical data and cannot be traced back to an individual.</p>
+                            </li>
+                            <li>
+                                <h4>Local Targeting <span>&#x25BA;</span></h4>
+                                <p>Our Classified websites (Photos, Motors, Jobs and Property Today) use cookies to ensure you get the correct local newspaper branding and content when you visit them. These cookies store no personally identifiable information.</p>
+                            </li>
+                            <li>
+                                <h4>Grapeshot <span>&#x25BA;</span></h4>
+                                <p>We use Grapeshot as a contextual targeting technology, allowing us to create custom groups of stories outside out of our usual site navigation. Grapeshot stores the categories of story you have been exposed to. Their privacy policy and opt out option can be <a href="http://www.grapeshot.co.uk/privacy.html" target="_blank">accessed here.</a></p>
+                            </li>
+                            <li>
+                                <h4>Subscriptions Online <span>&#x25BA;</span></h4>
+                                <p>Our partner for Newspaper subscriptions online stores data from the forms you complete in these to increase the usability of the site and enhance user experience.</p>
+                            </li>
+                            <li>
+                                <h4>Add This <span>&#x25BA;</span></h4>
+                                <p>Add This provides the social networking widget found in many of our pages. This widget gives you the tools to bookmark our websites, blog, share, tweet and email our content to a friend.</p>
+                            </li>
+                            <li>
+                                <h4>3rd Party Cookies <span>&#x25BA;</span></h4>
+                                <p>We use Advertising agencies to provide us with some of the advertising on our websites. These include (but are not limited to) <a href="http://www.specificmedia.com/lp/ad-option-icon" target="_blank">Specific Media,</a> <a href="http://www.rubiconproject.com/privacy-policy" target="_blank">The Rubicon Project,</a> <a href="http://www.adjug.com/" target="_blank">AdJug,</a> <a href="http://www.adconion.com/us/privacy-policy/the-adconion-cookie.html" target="_blank">AdConion,</a> <a href="http://www.contextweb.com/privacy_policy/opt_out" target="_blank">Context Web.</a> Please click on the provider name to visit their opt-out page.</p>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div> 
+
+
+					<script type="text/javascript"> 
+		$(".smartAd").hide();
+		$(".smartAdV").hide();
+	</script>
+	<script type="text/javascript" src="http://johnston.grapeshot.co.uk/smartad/channels.cgi?p=belfast.jp&url=http://www.newsletter.co.uk/"></script>
+
+
+
+    
+		<script src="/assets/script/jp-pp3Footer-min.js?v=147"></script>
+
+
+      
+  
+           			 		
+		
+			 
+	
+		
+	<script>
+		var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+		(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+		g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+		s.parentNode.insertBefore(g,s)}(document,'script'));
+	</script>
+	
+	          
+                  
+    
+      
+        
+        
+                        
+
+<!-- Kontera ContentLink(TM);-->
+	<script type='text/javascript'>
+	var dc_AdLinkColor = 'blue' ;
+	var dc_PublisherID = 206076 ;
+	</script>
+	<script type='text/javascript' src='http://kona.kontera.com/javascript/lib/KonaLibInline.js'>
+	</script>
+	<!-- Kontera ContentLink(TM) -->
+
+		   
+      
+      
+          
+        
+        
+                        
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+	<!-- COPYRIGHT 2011 Nielsen Online -->
+	<script type="text/javascript">
+	  (function () {
+		var d = new Image(1, 1);
+		d.onerror = d.onload = function () {
+		  d.onerror = d.onload = null;
+		};
+		d.src = ["//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-305805h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+	  })();
+	</script>
+	<noscript>
+	  <div>
+		<img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-305805h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+		width="1" height="1" alt="" />
+	  </div>
+	</noscript>
+	<!-- END Nielsen Online SiteCensus V6.0 -->
+
+		   
+      
+      
+          
+        
+        
+                        
+
+<!--crazy egg tag-->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0008/5245.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+		   
+      
+      
+      
+  
+              
+</body>
+</html>
